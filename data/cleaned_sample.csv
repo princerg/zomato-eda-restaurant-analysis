@@ -1,0 +1,1001 @@
+name,city,area,rating,rating_count,cusine,cost_for_two,online_order,table_reservation,delivery_only
+Sarada Hotel & Restaurant,Siliguri,Khalpara,3.5,18,"Biryani, South Indian, Chinese",200.0,True,False,False
+Chaudhary Restaurant,Mumbai,Kharghar,0.0,0,North Indian,200.0,False,False,False
+Zimana,Allahabad,Civil Lines,3.3,16,"North Indian, Chinese, Beverages, Coffee, Continental, Desserts, Pizza, South Indian",500.0,True,False,False
+Cake Me Home,Mumbai,"Oshiwara, Andheri West",3.3,0,"Desserts, Bakery",200.0,True,False,False
+Mamledar Misal,Mumbai,Ghatkopar West,3.2,9,"Maharashtrian, Street Food, Fast Food",200.0,True,False,False
+Spoonfuel,Kolkata,Kankurgachi,0.0,0,"Continental, Fast Food, Chinese, North Indian",400.0,False,False,True
+Viva Goa,Goa,Candolim,3.6,26,"Goan, Seafood, North Indian, Chinese",450.0,False,False,False
+Chatkazz,Vadodara,Subhanpura,3.2,49,"Fast Food, North Indian",300.0,True,False,False
+Subway,Mumbai,"Khopat, Thane West",3.5,295,"Fast Food, Healthy Food, Sandwich, Salad",400.0,False,False,False
+Club Shawarma,Pune,Pimpri,3.2,19,"Lebanese, Juices, Beverages",350.0,True,False,False
+Food Factory,Bengaluru,Kanakapura Road,0.0,0,Fast Food,300.0,False,False,False
+Chicks On Fire,Ludhiana,Model Town,2.7,45,"North Indian, Chinese",650.0,False,False,False
+Raju's Kitchen,Mumbai,Borivali East,3.7,557,"Chinese, North Indian, Biryani",900.0,True,False,False
+Winner Food Company,Puducherry,Gandhinagar,0.0,0,Biryani,200.0,True,False,False
+Boofiya,Mumbai,Dombivali East,3.7,43,"Cafe, Fast Food, Sandwich",500.0,True,False,False
+Cafe Eleven,Alappuzha,Kommady,0.0,0,"Sandwich, Juices",200.0,False,False,False
+QFC - Quality Fried Chicken,Kolkata,Nagerbazar,3.6,89,"Fast Food, American",200.0,True,False,False
+Hyderabad Mughal Biriyani,Chennai,Anna Nagar West,3.4,96,"North Indian, Chinese, Arabian, Seafood, Biryani",600.0,False,False,False
+Non Veg Town,Ajmer,Ana Sagar Lake,3.3,0,North Indian,350.0,False,False,False
+Ram Lal Ji Ke Chole Bhature,Meerut,Devpuri,3.2,6,Street Food,100.0,True,False,False
+Adraq by OYO,Delhi NCR,"Sector 51, Noida",0.0,0,"North Indian, Mughlai",300.0,False,False,True
+Cake Shop - Vivanta Coimbatore,Coimbatore,Race Course,0.0,0,"Cafe, Bakery, Desserts",600.0,False,True,False
+Shri Raj Rajeshwari Balaji Sweets And Namkeen,Indore,Rau,3.3,0,"Mithai, North Indian",200.0,False,False,False
+Box Of Joy,Bengaluru,Bellandur,0.0,0,"North Indian, Chinese",300.0,True,False,False
+Celebrita Restaurant,Nashik,Nashik Road,3.2,26,"North Indian, Chinese",700.0,False,False,False
+Pizza Bites N Chinese,Jaipur,Sodala,3.3,0,Fast Food,200.0,True,False,False
+Street Foods by Punjab Grill,Delhi NCR,Tagore Garden,3.6,90,"North Indian, Street Food, Kebab",450.0,True,False,False
+Chai Adda,Pune,Kothrud,3.6,23,"Street Food, Fast Food",300.0,True,False,False
+Egg Center,Indore,Old Palasia,0.0,0,Fast Food,200.0,False,False,False
+Street Cafe,Kolkata,Bara Bazar,3.3,25,"Fast Food, Sandwich, Burger",300.0,True,False,False
+Chowman,Kolkata,"Sector 1, Salt Lake",4.2,3164,"Chinese, Seafood, Cantonese, Asian, Thai",900.0,True,False,False
+Kathleen,Kolkata,Picnic Garden,3.0,9,"Bakery, Fast Food",150.0,False,False,False
+Hotel Seetali,Pune,Rasta Peth,0.0,0,North Indian,350.0,False,False,False
+Monginis,Rajkot,150 Feet Ring Road,3.0,4,"Desserts, Bakery",250.0,False,False,False
+Hotel Yashoda,Pune,Baner,3.0,6,"North Indian, Chinese",500.0,False,False,False
+Mi Casa,Goa,Bambolim,0.0,0,"Chinese, Goan, Mughlai, North Indian",700.0,False,False,False
+Imly Cafe,Delhi NCR,Golf Course Road,4.0,2293,"Street Food, North Indian",1000.0,True,True,False
+Grand China,Mumbai,Kalyan,3.3,21,Chinese,600.0,False,False,False
+The Sunset Lounge - Hotel Clarks Shiraz,Agra,Agra Cantt,3.3,6,Finger Food,300.0,False,False,False
+Mellow Lounge & Bar,Delhi NCR,Rajouri Garden,3.9,17,"Chinese, North Indian, Continental, Beverages",300.0,True,False,False
+BADSHAH SWEETS,Pune,MG Road,0.0,0,"Mithai, Street Food",500.0,False,False,False
+U Tan Sea Resorts,Mumbai,Bhayandar,4.0,283,"Continental, North Indian, Thai, South Indian",300.0,False,False,False
+Hariprasad,Mumbai,Marol,3.8,636,"North Indian, Chinese, Mughlai",600.0,True,False,False
+Anna Sagar Restaurant,Bhopal,JP Nagar,3.3,0,"Fast Food, Chinese, North Indian",200.0,False,False,False
+Aakashvani Khaman,Surat,Varaccha,3.3,0,Gujarati,50.0,False,False,False
+Goli Vada Pav,Indore,Vijay Nagar,3.0,0,Street Food,200.0,False,False,False
+Shri Sharma Laaj,Jodhpur,Sardarpura,0.0,0,North Indian,150.0,False,False,False
+Natraj Restaurant,Udaipur,City Centre,4.0,233,"Gujarati, Rajasthani",400.0,False,False,False
+Famous Vadapav and Locho,Surat,Kadodara,3.3,0,"Gujarati, Fast Food, Street Food",300.0,False,False,False
+Icebox,Jaipur,Shyam Nagar,3.7,108,"Cafe, Desserts",400.0,True,False,False
+Waffle Emporio,Kolkata,Bangur,3.3,0,Desserts,200.0,False,False,False
+Mahal,Ranchi,Ahirtoli,3.8,32,"North Indian, Chinese",700.0,False,False,False
+Shiva's Kabab Corner,Bengaluru,Sahakara Nagar,3.9,176,"North Indian, Kebab",400.0,False,False,False
+Godavari Ruchulu,Hyderabad,Film Nagar,3.1,124,"South Indian, Andhra, Hyderabadi, Chinese",450.0,True,False,False
+Domino's Pizza,Bengaluru,KR Puram,3.1,512,"Pizza, Fast Food",400.0,True,False,False
+Mishraji's Little Kitchen,Mumbai,Ghatkopar West,3.3,8,"Chinese, Street Food",350.0,False,False,False
+Laidback Cafe,Delhi NCR,Saket,4.1,320,"Continental, North Indian, Asian, Fast Food",2000.0,False,False,False
+Subway,Hyderabad,Ameerpet,3.6,24,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+Nalas,Puducherry,Villianur,0.0,0,"South Indian, Chinese",200.0,False,False,False
+Delhi Darbar,Delhi NCR,Palam,3.3,0,North Indian,150.0,False,False,False
+Kota Dhani,Kota,Ladpura,0.0,0,"Chinese, Indian",150.0,False,False,False
+Mio Amore,Kolkata,Sealdah Area,3.8,158,Bakery,150.0,False,False,False
+Big Straw Blast,Bengaluru,Sahakara Nagar,3.5,13,Beverages,150.0,True,False,False
+Little Tintin Restaurant,Kolkata,Konnagar,3.1,62,"North Indian, Bengali, Chinese",400.0,True,False,False
+La Feasta,Ahmedabad,Bodakdev,3.6,108,Italian,900.0,False,False,False
+Ahmadia Restaurant,Chennai,Parrys,3.2,5,"Chinese, North Indian, Hyderabadi",400.0,False,False,False
+Love Triangle Bakers And Cafe,Delhi NCR,Vasundhara,0.0,0,"Bakery, Desserts",300.0,False,False,False
+Noor Dhaba,Amritsar,Ranjit Avenue,3.3,0,"North Indian, Chinese, Beverages",300.0,False,False,False
+Feast & Beast Restaurant,Varanasi,Durgakund,0.0,0,Fast Food,200.0,False,False,False
+Mata Pithori Devi Hotel,Mumbai,Ambernath,3.2,11,"Fast Food, Seafood, Malwani",350.0,True,False,False
+Agri Spice,Mumbai,"Panch Pakhadi, Thane West",3.3,14,"North Indian, Chinese",450.0,True,False,False
+Bakes & Beans,Amritsar,Ranjit Avenue,4.2,167,"Italian, Cafe",300.0,True,False,False
+Hawk Wings,Thrissur,Poothole,0.0,0,Finger Food,300.0,False,False,False
+Yummylicious,Chennai,Kilpauk,0.0,0,Bakery,350.0,False,False,False
+Soniya's Royal Cafe,Chennai,Kodambakkam,0.0,0,"North Indian, Chinese",300.0,False,False,False
+Priyanka,Guwahati,Beltola,3.9,64,"Fast Food, Bakery, Desserts, Momos",150.0,False,False,False
+Halal Food,Delhi NCR,"Sector 62, Noida",3.3,0,"Chinese, Rolls",250.0,False,False,False
+Teng Fast Food Corner,Chandigarh,"Sector 37, Chandigarh",0.0,0,"Fast Food, North Indian",500.0,False,False,False
+Pizza Loves Shakes,Hyderabad,Gachibowli,3.3,0,"Pizza, Beverages",250.0,True,False,False
+Mysore Express,Ahmedabad,Chandkheda,3.3,0,South Indian,300.0,False,False,False
+Calavara's Hot Pot,Kochi,Edappally,0.0,0,Kerala,500.0,False,False,False
+Noor Non-Veg,Jhansi,Sipri Bazaar,3.3,0,North Indian,150.0,False,False,False
+Karachi Bakery,Hyderabad,Tolichowki,4.1,398,"Bakery, Fast Food, Desserts",450.0,False,False,False
+Antique Caterers,Jaipur,Mansarovar,3.3,0,North Indian,300.0,False,False,False
+Datta Bhel,Mumbai,Kharghar,3.2,0,Street Food,100.0,True,False,False
+Mainland Punjab,Delhi NCR,Rohini,0.0,0,"North Indian, Biryani",850.0,True,False,False
+Hotel Classic Food,Pune,Lohegaon,3.3,10,Maharashtrian,300.0,True,False,False
+Bake House,Delhi NCR,Najafgarh,0.0,0,"Bakery, Desserts",300.0,False,False,True
+Salad Express,Mumbai,South Mumbai,3.5,19,Salad,200.0,True,False,True
+De Lawn Cafe and Restaurant,Bengaluru,International Airport,3.5,9,Cafe,500.0,False,False,False
+Kathleen,Kolkata,Behala,2.9,21,"Bakery, Fast Food",150.0,False,False,False
+Hide Out,Delhi NCR,Mukherjee Nagar,3.4,20,Fast Food,100.0,False,False,False
+Peter's Shack,Goa,Calangute,0.0,0,"North Indian, Goan, Seafood, Continental, Chinese",550.0,False,False,False
+The Chai Bar,Indore,New Palasia,3.9,282,"Cafe, Fast Food",300.0,True,False,False
+Ram Namkeen & Sweet Home,Jodhpur,Chopasni Housing Board,0.0,0,Mithai,150.0,False,False,False
+Mumbai Kulfi,Chennai,Porur,0.0,0,"Ice Cream, Desserts",150.0,True,False,False
+Spicy Tadka,Delhi NCR,"Sector 10, Faridabad",3.5,87,"North Indian, Mughlai, Chinese",350.0,True,False,False
+Roll Up,Delhi NCR,Rohini,3.7,223,"Fast Food, Rolls",300.0,True,False,False
+Great Punjab,Mumbai,Kalyan,3.7,673,"Malwani, North Indian, Seafood, Biryani",500.0,True,False,False
+Whaatsup Foods,Mumbai,Bandra East,0.0,0,"North Indian, Chinese",400.0,False,False,False
+Spice Squire,Gorakhpur,Golghar,3.3,7,"North Indian, Biryani, Fast Food",250.0,True,False,False
+Cafe Creme,Nashik,Nashik Road,3.7,63,"Desserts, Cafe",300.0,True,False,False
+Shri Mohan Bhog Dugdh Bhandar,Lucknow,Rajajipuram,3.3,14,"Mithai, Fast Food",150.0,False,False,False
+Biryani Chronicles,Delhi NCR,DLF Phase 3,2.9,54,"Biryani, Mughlai",700.0,True,False,False
+Chinese Hat Ke,Delhi NCR,Uttam Nagar,3.3,0,Chinese,400.0,True,False,False
+Domino's Pizza,Hyderabad,S P Road,3.8,408,"Pizza, Fast Food",400.0,True,False,False
+Chicken Express,Delhi NCR,Rohini,3.3,0,North Indian,250.0,False,False,False
+Alibi - Maya International Hotel,Bengaluru,Church Street,1.8,226,"North Indian, Continental, Chinese",300.0,False,False,False
+Chennai Kulfi,Salem,Gugai,0.0,0,"Desserts, Ice Cream",250.0,False,False,False
+Buns,Chandigarh,"Sector 44, Chandigarh",3.8,116,Fast Food,500.0,True,False,False
+McDonald's,Ahmedabad,Navrangpura,4.1,462,"Burger, Fast Food",500.0,True,False,False
+Hotel Om Brahma,Salem,Alagapuram Pudur,0.0,0,South Indian,100.0,True,False,False
+Mukharuchi Sweets,Kolkata,Beliaghata,3.4,15,Mishti,150.0,False,False,False
+Flurys,Mumbai,Seawoods,2.4,46,"Fast Food, Bakery, Desserts",300.0,False,False,False
+Fishland 15,Bengaluru,Majestic,3.8,60,"Mangalorean, Seafood",600.0,False,False,False
+Cafe Mondegar,Mumbai,Colaba,4.2,5335,"Continental, Italian, Chinese, Fast Food",300.0,False,False,False
+Sound Check,Chandigarh,Chandigarh Industrial Area,3.6,117,"North Indian, Chinese, Continental",200.0,False,False,False
+New Airport Restaurant,Mumbai,Marol,3.9,381,"North Indian, Mughlai",600.0,False,False,False
+Marky Momos,Delhi NCR,"Sector 50, Gurgaon",3.6,230,"Momos, Fast Food, Chinese",500.0,True,False,False
+Hotel OCH,Mumbai,Colaba,3.5,53,"South Indian, North Indian, Chinese, Beverages",400.0,False,False,False
+Five Star Chicken,Bengaluru,Vijay Nagar,3.3,25,Fast Food,200.0,True,False,False
+09 Street Cafe,Indore,Bhawar Kuan,3.7,36,Cafe,350.0,True,False,False
+Kulcha Ji,Delhi NCR,Uttam Nagar,0.0,0,Street Food,100.0,False,False,False
+Singh Corner Kathi Roll,Delhi NCR,Vaishali,3.3,0,Rolls,150.0,False,False,False
+Mark Restaurant,Pune,Viman Nagar,3.5,16,"North Indian, Chinese",500.0,False,False,False
+Cafe Craft,Guwahati,Silpukhuri,4.1,262,Cafe,600.0,False,False,False
+Tarini Restaurant,Hyderabad,Kondapur,3.2,15,"North Indian, Chinese",500.0,True,False,False
+Vaigai Express,Bengaluru,Whitefield,3.2,9,"South Indian, North Indian, Chinese",400.0,False,False,False
+Ajantha Bakery,Chennai,Red Hills,0.0,0,Desserts,150.0,False,False,False
+Chinese Delight,Jamshedpur,Bistupur,2.6,16,"Chinese, Momos",450.0,False,False,False
+Sri Siddivinayak Tiffen & Snacks,Hyderabad,Manikonda,3.0,8,"South Indian, North Indian",250.0,False,False,False
+Wok Express - Chinese Wok,Mumbai,Nerul,3.8,381,"Chinese, Asian, Thai, Beverages",800.0,True,False,False
+Chocoberry,Bengaluru,Jayanagar,3.8,71,"Ice Cream, Desserts, Beverages",400.0,True,False,False
+Airport - Food court,Guwahati,Borjhar,3.3,0,"North Indian, South Indian, Beverages",500.0,False,False,False
+Shri Gurudev Pavitra Bhojnalaya,Jaipur,Tonk Road,0.0,0,North Indian,150.0,False,False,False
+Sankranth Family Garden & Restaurant,Bengaluru,Uttarahalli,3.1,6,"South Indian, North Indian, Chinese",550.0,False,False,False
+Savya Rasa,Pune,Koregaon Park,4.7,1166,"South Indian, Mangalorean, Kerala, Chettinad",300.0,True,True,False
+Adarsh Ji Bhojnalaya,Bhopal,TT Nagar,3.3,0,North Indian,300.0,False,False,False
+Cafe Roameo,Delhi NCR,"Sector 14, Gurgaon",3.6,201,"Cafe, North Indian, Chinese, Bakery",400.0,True,False,False
+Gopala,Delhi NCR,Greater Kailash 2 (GK2),3.6,27,"Mithai, Street Food, Bakery",300.0,True,False,False
+Hotel Chandramay,Pune,Shivapur,3.0,5,"North Indian, Chinese, Street Food",450.0,False,False,False
+Zesty Tasty,Bengaluru,Whitefield,3.3,4,"North Indian, Chinese, Fast Food",300.0,False,False,False
+Lumbini Food Point,Delhi NCR,"Sector 19, Noida",3.9,238,"North Indian, Chinese",350.0,True,False,False
+Delhi Belly,Delhi NCR,Chhatarpur,2.8,11,"Chinese, North Indian, Fast Food",250.0,True,False,False
+Food Guru,Ludhiana,Industrial Area,3.3,14,"Fast Food, Pizza",250.0,True,False,False
+New Aroma,Bhubaneswar,BJB Nagar,3.2,125,"South Indian, Continental, Chinese, North Indian",600.0,False,False,False
+Arora Shahi Namkeen,Jodhpur,Sardarpura,0.0,0,Street Food,100.0,True,False,False
+WarmOven Cake & Desserts,Bengaluru,Brookefield,4.1,46,"Bakery, Desserts",500.0,True,False,False
+Sharma Ji Shud Bhojanlya,Meerut,Meerut Cantt,0.0,0,North Indian,100.0,False,False,False
+Cloud 9 - Hotel Shivalik View,Chandigarh,"Sector 17, Chandigarh",3.6,105,"North Indian, Mexican, Continental",300.0,False,False,False
+Hyderabad Sweets & Bakers,Hyderabad,Chandrayanagutta,3.4,13,"Desserts, Bakery, Mithai",200.0,False,False,False
+Subhan Bakery,Hyderabad,Nampally,4.6,848,"Bakery, Fast Food",150.0,True,False,False
+Baskin Robbins,Bengaluru,Hennur,3.1,19,"Ice Cream, Desserts, Beverages",200.0,True,False,False
+Palm Grove Multi Cuisine Restaurant,Delhi NCR,Paharganj,3.3,0,"South Indian, Chinese, North Indian",500.0,False,False,False
+Bangalore Iyengar's Bakery,Mumbai,"Panch Pakhadi, Thane West",3.2,6,"Bakery, Fast Food",100.0,False,False,True
+Melodrama,Kolkata,Jodhpur Park,4.4,389,"Bakery, Desserts",400.0,False,False,False
+Blu Jerry's Natural,Meerut,Meerut Cantt,0.0,0,Desserts,150.0,False,False,False
+Vijaya Traders,Trivandrum,Peroorkada,3.3,0,"Italian, Burger, Sandwich, Ice Cream, Salad, Juices",200.0,False,False,False
+Garma Garam,Mumbai,"Vasant Vihar, Thane West",3.4,16,"North Indian, Chinese, Seafood",600.0,True,False,False
+Eat Well Restaurant,Amritsar,Ranjit Avenue,0.0,0,"North Indian, Mughlai",500.0,False,False,False
+Paahalwan Mohali,Chandigarh,Kharar Road,3.3,150,"North Indian, Chinese, Desserts",650.0,True,True,False
+Blue Box Food,Mumbai,Airoli,0.0,0,"North Indian, Chinese, Italian",400.0,False,False,False
+OA---NT  Food,Delhi NCR,Dwarka,0.0,0,South Indian,150.0,False,False,True
+Marwadi Tadka,Jaipur,Mansarovar,0.0,0,"North Indian, Rajasthani",300.0,False,False,False
+Rasoi by Atithi House,Delhi NCR,Knowledge Park,3.8,1056,"North Indian, Chinese, Beverages",300.0,True,True,False
+Infamous Bistro & Bar,Dehradun,Jakhan,4.3,300,Cafe,500.0,True,False,False
+Yumla,Chandigarh,Ambala Road,2.8,60,"Pizza, Cafe, Burger, Fast Food, Beverages",350.0,True,False,False
+Domino's Pizza,Delhi NCR,Naraina,3.8,409,"Pizza, Fast Food",400.0,True,False,False
+Cafebility,Varanasi,Chetganj,4.5,288,"Cafe, Continental",600.0,True,False,False
+Hotel Vishal Pure Veg,Mumbai,Vasai,3.2,82,"South Indian, North Indian, Chinese",450.0,False,False,False
+Gabbar's Bar & Kitchen,Kolkata,Camac Street Area,4.3,2828,"North Indian, Chinese, Mexican, Italian",300.0,False,True,False
+PIND BALLUCHI,Delhi NCR,Netaji Subhash Place,3.5,499,"North Indian, Mughlai, Kebab",1000.0,True,True,False
+Lailas,Delhi NCR,Zakir Nagar,0.0,0,Biryani,200.0,False,False,False
+Countryside Bakery,Raipur,Amanaka,3.3,0,"North Indian, Biryani, Chinese, Beverages, Desserts",600.0,False,False,False
+Kailash Bhojanalaya,Udaipur,City Centre,0.0,0,North Indian,200.0,False,False,False
+The Belgian Waffle Co.,Pune,Viman Nagar,3.7,46,"Desserts, Beverages",300.0,False,False,False
+Amruta,Bengaluru,Majestic,3.8,21,"South Indian, North Indian, Chinese",600.0,False,False,False
+Chacha Ki Rasoi,Bhopal,Kolar,3.3,0,"North Indian, South Indian, Chinese",500.0,False,False,False
+Wow City Momos,Kolkata,"Sector 5, Salt Lake",0.0,0,"Momos, Fast Food",400.0,True,False,False
+Swaad Anusaar,Raipur,Shankar Nagar,2.9,23,"North Indian, South Indian, Chinese",300.0,False,False,False
+Swastik Pure Veg Restaurant,Bhopal,BHEL,4.3,598,"North Indian, Biryani, Chinese",300.0,True,False,False
+Northam Pizza|Subs|Bowls,Bengaluru,HSR,3.3,0,Pizza,500.0,False,False,False
+The Gazebo Cafe And Bistro,Nagpur,Hingna T Point,3.8,116,North Indian,500.0,True,False,False
+Hotel Meena,Mumbai,Santacruz East,2.8,15,"North Indian, Mughlai, Chinese",600.0,False,False,False
+KGN Kalyani Hotel,Hyderabad,Moosapet,3.0,37,Biryani,100.0,False,False,False
+Subway,Ahmedabad,Navrangpura,3.7,130,"Healthy Food, Sandwich, Salad",500.0,True,False,False
+Malik Sweets,Delhi NCR,Malviya Nagar,2.9,7,Mithai,250.0,False,False,False
+Kumawat Juice Center,Indore,Airport Road,3.3,0,"Beverages, Juices, Fast Food",250.0,False,False,False
+Goli Vada Pav No. 1,Bengaluru,Ulsoor,3.6,39,Street Food,200.0,True,False,False
+VINO Restaurant,Kanpur,Kidwai Nagar,3.4,16,"North Indian, Chinese, Continental, Desserts, Beverages",300.0,True,False,False
+Chakkhna : Beyond Peanuts,Delhi NCR,Sector 49,4.0,690,"North Indian, Biryani, Mughlai, Kebab",650.0,True,False,False
+Knight Shack Restaurant And Cafe,Jodhpur,Sardarpura,2.9,4,Fast Food,250.0,False,False,False
+Dhamaal Gaddi,Delhi NCR,Indirapuram,3.8,146,"North Indian, Biryani, Mughlai, Beverages",500.0,True,False,False
+Cafeteria,Lucknow,Indira Nagar,0.0,0,"Fast Food, Beverages",100.0,False,False,False
+Parleshwar Vada Pav Samrat,Mumbai,Malad West,3.3,14,"Street Food, Maharashtrian",100.0,False,False,False
+New Gyani Ji Ka Dhaba,Lucknow,Alambagh,4.0,484,North Indian,500.0,False,False,False
+Shawarma Delicious,Pune,Kharadi,0.0,0,Rolls,400.0,True,False,False
+Zaika4u,Delhi NCR,"MG Road, Gurgaon",3.6,45,"North Indian, Chinese",250.0,True,False,False
+Sanjar Chicken Biryani,Vadodara,Alkapuri,2.9,4,Biryani,300.0,False,False,False
+Shawarma Inc,Bengaluru,Brigade Road,3.2,46,"Lebanese, Momos",300.0,True,False,False
+SeasoningMoments,Pune,Hadapsar,3.3,16,Fast Food,200.0,False,False,False
+Bombay Broasts,Mumbai,Azad Nagar,3.7,42,"Fast Food, Burger, Pizza, Sandwich, Rolls",400.0,True,False,False
+CLUB REGIO By Asteria,Jaipur,Tonk Road,3.3,13,"Finger Food, Italian, Continental, Chinese",300.0,False,False,False
+Farmer Boy,Kolkata,Behala,3.3,0,"North Indian, Chinese",400.0,True,False,False
+The Jailers Kitchen,Nagpur,Gandhibagh,3.3,0,North Indian,300.0,True,False,True
+Chatar Patar,Ranchi,Harmu,3.8,79,Fast Food,300.0,True,False,False
+Dumplings Hood cafe,Ludhiana,Sarabha Nagar,3.8,53,"Cafe, Continental, Fast Food",500.0,True,False,False
+Chicken Sukhija,Ludhiana,Dugri,3.8,79,Mughlai,300.0,True,False,False
+Moms Parantha,Chandigarh,Ambala Road,2.9,5,North Indian,100.0,False,False,True
+Jui's Chill & Grill,Pune,Chandan Nagar,3.2,11,"South Indian, North Indian, Fast Food, Biryani, Beverages",450.0,False,False,False
+Biryani Blues,Delhi NCR,"Sector 50, Noida",3.9,951,"Biryani, Hyderabadi",700.0,True,False,False
+Ignia,Goa,Margao,4.3,199,"American, Steak, Seafood",900.0,False,False,False
+Bay Bay's,Kolkata,Ballygunge,3.8,115,"Continental, Seafood, Asian, North Indian",800.0,True,False,False
+On Toes,Mumbai,Veera Desai Area,4.5,109,"North Indian, Italian, Chinese",1500.0,True,False,False
+The Hobbit Cafe,Patiala,Model Town,3.3,0,Cafe,500.0,True,False,False
+Bowl Nation,Bengaluru,Koramangala 1st Block,0.0,0,"North Indian, Chinese, Biryani",300.0,True,False,False
+Milano Pizza By Doodles Cakes,Delhi NCR,Kapashera,3.3,13,"Fast Food, Bakery",450.0,True,False,False
+Vadapav Mistri,Jaipur,Mansarovar,3.4,27,Fast Food,200.0,True,False,False
+Fusion Dhaba,Mumbai,"Wagle Estate, Thane West",3.9,1067,"Asian, North Indian, Mughlai",300.0,True,True,False
+Janta Bakers,Dehradun,Majra,2.7,8,Bakery,200.0,False,False,False
+Crazy 4 Cakes,Kolkata,Park Circus Area,3.0,4,Bakery,200.0,False,False,False
+The ThickShake Factory,Hyderabad,S R Nagar,3.7,196,"Beverages, Desserts",300.0,True,False,False
+Wok N Soy,Hyderabad,Kukatpally,0.0,0,Chinese,500.0,False,False,False
+City Nuts,Jaipur,Shyam Nagar,3.3,0,"North Indian, Healthy Food, Chinese",500.0,True,False,False
+Momo Vihar,Patna,Rukanpura,3.3,18,Street Food,150.0,False,False,False
+Alfresco,Indore,Rau,3.6,159,"North Indian, Chinese, Fast Food",500.0,True,False,False
+Joshi Food Corner,Mumbai,Vashi,3.2,7,Street Food,400.0,True,False,False
+MMU's Thali,Aurangabad,Usmanpura,2.9,7,North Indian,400.0,False,False,False
+Biryani Point,Delhi NCR,Indirapuram,3.6,55,Biryani,500.0,True,False,False
+The Bridge - The Park,Kolkata,Park Street Area,4.1,630,"Italian, Continental",300.0,True,True,False
+Samrat Cakes & Bakes,Delhi NCR,"Sector 16, Faridabad",0.0,0,Bakery,350.0,False,False,False
+Hotel Kadamba Veg,Bengaluru,Kengeri,3.9,93,"South Indian, North Indian, Chinese, Street Food, Juices",450.0,False,False,False
+Flavours Restaurant - Hotel Doon Castle,Dehradun,Kaonli,3.3,14,"North Indian, Chinese, Continental",800.0,True,False,False
+Blessed Bites,Pune,Pimple Saudagar,3.1,4,"Fast Food, Street Food, Rolls",200.0,True,False,False
+Aqua Java,Kolkata,Hatibagan,3.7,286,"Cafe, Mexican, Continental, Chinese, Italian",750.0,True,False,False
+Cafe Diva,Delhi NCR,R K Puram,4.0,370,"European, Italian, Salad, Asian",2000.0,True,True,False
+Roshani Cakes,Delhi NCR,Crossing Republik,0.0,0,Bakery,300.0,False,False,False
+Snoopys Food Hub,Delhi NCR,Mayur Vihar Phase 3,3.4,23,"North Indian, Bengali, Rolls",400.0,True,False,False
+Pepper Pods,Delhi NCR,Kavi Nagar,3.7,170,"North Indian, Chinese, Mughlai",750.0,True,True,False
+Mahadev Juice Corner,Delhi NCR,Laxmi Nagar,0.0,0,Juices,100.0,False,False,False
+Rasgulla Point,Delhi NCR,"Sector 17, Gurgaon",0.0,0,Street Food,300.0,False,False,True
+Pagal About Pasta,Delhi NCR,Uttam Nagar,3.3,0,Fast Food,150.0,True,False,True
+New Sanjha Chulla - Garden Restaurant,Ahmedabad,Adalaj,3.5,165,"North Indian, Chinese, Fast Food",650.0,False,False,False
+Amma's Pastries,Kochi,Kakkanad,3.8,73,"Bakery, Desserts",200.0,False,False,False
+Hunger Bites,Delhi NCR,Prashant Vihar,3.1,14,"Chinese, North Indian",300.0,False,False,False
+Cafe Coffee Day,Kolkata,Chinar Park,3.7,175,"Cafe, Desserts, Beverages",600.0,False,False,False
+Mad Over Donuts,Mumbai,Ghatkopar West,4.0,218,"Desserts, Beverages",450.0,True,False,False
+Bangaliaana,Kolkata,Belghoria,3.0,132,"North Indian, Chinese, Bengali, Fast Food",300.0,True,False,False
+The ThickShake Factory,Hyderabad,Habsiguda,4.2,377,"Beverages, Desserts",300.0,True,False,False
+Safa Dine,Mangalore,Balmatta,3.5,11,"Biryani, Kerala, North Indian, South Indian",300.0,True,False,False
+Punjab Express,Bengaluru,New BEL Road,3.3,0,North Indian,350.0,False,False,False
+Street Of Thugs,Delhi NCR,Vikaspuri,3.8,43,Chinese,500.0,True,False,False
+Hot Attack Restaurant,Bengaluru,Whitefield,0.0,0,"North Indian, Chinese, Biryani",500.0,False,False,False
+Chafekar Dugdha Mandir,Nagpur,Sitabuldi,3.5,22,"South Indian, Fast Food",300.0,True,False,False
+Prakash Bhojanalya,Dehradun,Race Course,2.9,4,North Indian,400.0,True,False,False
+Roots,Bengaluru,Koramangala 1st Block,4.5,2052,"North Indian, South Indian, Chinese, Continental, Mangalorean",300.0,True,True,False
+Hyderabad Chefs,Hyderabad,Kukatpally,3.6,1535,"North Indian, Chinese",600.0,True,False,False
+O'Biryani,Chennai,Kanchipuram District,2.8,4,"Biryani, Hyderabadi, North Indian, Mughlai",250.0,True,False,True
+Shree Ambica Farsan,Vadodara,Nizampura,0.0,0,"Street Food, Mithai",200.0,False,False,False
+Super Foodies,Mumbai,"Hill Road, Bandra West",0.0,0,"Italian, Chinese, Beverages",350.0,False,False,False
+WOW! Momo,Kolkata,Dalhousie BBD Bagh,0.0,0,Momos,350.0,True,False,False
+South Junction,Kolkata,New Town,3.5,85,South Indian,150.0,True,False,False
+Sher E Punjab Paji,Bhopal,TT Nagar,3.4,57,"North Indian, Mughlai",600.0,True,False,False
+Gaan Point Cafe,Kolkata,Gariahat,3.2,9,"Cafe, Fast Food",500.0,False,False,False
+Shiva Fast Food,Aurangabad,Gulmandi,0.0,0,Fast Food,100.0,False,False,False
+Juice Palace,Bengaluru,Ejipura,3.3,0,"Beverages, Ice Cream, Fast Food",150.0,False,False,False
+Food House,Jalandhar,Shastri Nagar,3.4,15,"Sandwich, Pizza, Chinese",200.0,True,False,False
+Chinese Hut,Delhi NCR,Uttam Nagar,3.4,14,"Chinese, North Indian",400.0,True,False,False
+Dadi's Dum Biryani,Bengaluru,BTM,4.1,2783,"Biryani, North Indian, Mughlai",800.0,True,True,False
+Kadhai,Ahmedabad,Ambavadi,3.7,166,"North Indian, Fast Food",600.0,True,False,False
+Wow Muffin,Kolkata,Dum Dum,3.3,0,Bakery,200.0,True,False,False
+De Ramas Multi Cuisine Restaurant,Surat,Vesu,3.4,14,North Indian,800.0,True,False,False
+Sai Kiran,Mumbai,"Manpada, Thane West",3.2,14,"North Indian, Chinese",500.0,False,False,False
+Banjara,Delhi NCR,"Suraj Kund, Faridabad",3.6,74,"North Indian, Chinese, Continental",300.0,False,True,False
+There For You,Jaipur,Malviya Nagar,0.0,0,"North Indian, Fast Food",750.0,False,False,False
+Cone Culture,Mumbai,Kharghar,4.4,601,European,250.0,True,False,False
+AMRATAM FAST FOOD,Jodhpur,Sardarpura,0.0,0,Chinese,300.0,True,False,False
+Shri Gupta'z,Delhi NCR,Okhla Phase 2,3.5,71,"Mughlai, North Indian, Chinese",500.0,False,False,False
+Dhaba By Taj,Delhi NCR,Ardee City,0.0,0,North Indian,700.0,True,False,False
+Chinese Food Corner,Delhi NCR,Govind Puram,0.0,0,Chinese,400.0,False,False,False
+Vishnu Caterers,Pune,Pimpri Chinchwad Area,3.3,0,North Indian,350.0,False,False,True
+Chowringhee,Delhi NCR,Vasundhara Enclave,3.6,0,"Rolls, Momos, Chinese",300.0,False,False,False
+Masala Kitchen,Mumbai,Goregaon West,3.2,27,"North Indian, Fast Food",600.0,True,False,True
+Bengali Sweet House,Delhi NCR,Daryaganj,3.9,38,"Mithai, South Indian, Fast Food, North Indian, Chinese, Street Food",300.0,False,False,False
+Old School Eatery,Vadodara,Alkapuri,4.7,675,"Fast Food, North Indian, Street Food",900.0,True,False,False
+Malakar Restaurant,Indore,Sudama Nagar,3.3,0,"North Indian, Chinese, Fast Food",200.0,True,False,False
+Mahakali Fast Food & Restaurant,Ahmedabad,Bopal,3.3,0,"North Indian, Chinese, Street Food",700.0,False,False,False
+Bhaijaan Biryani,Patiala,Abchal Nagar,3.6,53,Biryani,200.0,True,False,False
+Chicken and Grills,Indore,Annapurna Road,3.4,33,"North Indian, Mughlai",500.0,True,False,False
+Patio 805,Bengaluru,Jayanagar,4.2,471,"Chinese, Asian, Thai, Vietnamese, Coffee, Desserts, Tea, Beverages",300.0,True,True,False
+Dhaba Cafe,Jabalpur,Napier Town,3.9,112,"Cafe, Fast Food, Chinese, North Indian",200.0,True,False,False
+Kashti,Chennai,Ambattur,2.7,39,"Desserts, Beverages, Fast Food, Street Food",450.0,False,False,False
+Special Biriyani,Bengaluru,JP Nagar,2.9,4,"North Indian, Biryani",300.0,False,False,False
+Raj Sweets,Patna,Golambar,0.0,0,Mithai,200.0,True,False,False
+Friends Sweets & Bakers,Guwahati,Kahilipara,3.1,1,"Mithai, Bakery",80.0,False,False,False
+Diksha Chinese Food Corner,Delhi NCR,Aaya Nagar,0.0,0,Chinese,300.0,True,False,False
+Hotel Yatrik Treat Restaurant,Jhansi,Civil Lines,4.0,96,"North Indian, South Indian, Chinese, Continental, Fast Food, Biryani, Pizza, Beverages",400.0,True,False,False
+Rolls Junction,Delhi NCR,West Patel Nagar,3.0,4,Rolls,200.0,True,False,False
+Imperial,Goa,Vasco,3.1,4,North Indian,200.0,True,False,False
+Mom's Spices,Mumbai,Mira Road,3.3,0,"North Indian, Street Food",200.0,True,False,True
+Al Hamza Kabab Center,Bengaluru,Sanjay Nagar,0.0,0,Arabian,300.0,False,False,False
+Raj Chinese,Delhi NCR,Rohini,3.2,52,"Chinese, Fast Food",300.0,False,False,False
+Spicy Rasoi,Gorakhpur,Kunraghat,3.3,0,North Indian,200.0,False,False,False
+Alis Kitchen,Delhi NCR,Jasola,0.0,0,North Indian,450.0,False,False,False
+Papabubble,Delhi NCR,DLF Phase 3,0.0,0,Desserts,400.0,False,False,False
+Kelvin 77,Aurangabad,CIDCO,4.0,171,"Fast Food, Ice Cream",300.0,True,False,False
+Viswanathan Chettinadu Hotel,Chennai,Mylapore,4.0,204,"Chettinad, South Indian, Chinese",400.0,True,False,False
+Straws & Glasses,Hyderabad,L B Nagar,0.0,0,"Beverages, Juices",200.0,False,False,False
+Kisa Juice Point,Thrissur,Poothole,3.3,0,"Burger, Sandwich, Beverages",250.0,True,False,False
+Pachakurumulaku,Kochi,Kaloor,0.0,0,Kerala,300.0,False,False,False
+Dood's Burger,Coimbatore,Peelamedu,4.1,135,Fast Food,200.0,True,False,False
+eat.fit,Bengaluru,South Bangalore,4.5,1409,"Healthy Food, Biryani, Continental, North Indian, Desserts",400.0,True,False,True
+Grills & More,Bhopal,BHEL,3.4,27,"North Indian, Fast Food, Italian, Chinese, Burger, Sandwich, Beverages",300.0,True,False,False
+Pappus Kitchen,Chennai,GST Road,0.0,0,"Chinese, South Indian",250.0,False,False,False
+Momo Station,Mumbai,Kandivali East,3.0,7,Momos,200.0,False,False,False
+S S Multi Cuisine,Hyderabad,Masab Tank,3.3,0,Fast Food,250.0,False,False,False
+Kumbakonam Degree Coffee,Bengaluru,HSR,0.0,0,South Indian,150.0,False,False,False
+Vee Roast,Delhi NCR,"Sector 110, Noida",3.9,562,North Indian,700.0,True,False,False
+Ichizen,Delhi NCR,"Sector 15, Gurgaon",3.7,30,Japanese,300.0,True,True,False
+Shaam-E-Awadh,Pune,Aundh,3.4,12,"North Indian, Mughlai, Biryani",650.0,True,False,False
+Pant Sagar,Mumbai,Breach Candy,2.9,8,Chinese,350.0,False,False,False
+Lucky Restaurant,Vadodara,Makarpura,3.4,30,Fast Food,300.0,True,False,False
+Hunger Genie,Bengaluru,HSR,0.0,0,North Indian,450.0,True,False,False
+Murugan Idli Shop,Chennai,Ambattur,3.7,153,South Indian,150.0,True,False,False
+Dessertino,Mumbai,Ghatkopar East,3.7,36,"Desserts, Ice Cream",500.0,True,False,False
+Domino's Pizza,Goa,Baga,3.6,100,"Pizza, Fast Food",400.0,True,False,False
+Food Mantra,Mumbai,Mulund West,3.3,0,"North Indian, Chinese",700.0,True,False,False
+Manoranjan Restaurant,Vadodara,Mandvi,3.2,10,"North Indian, Fast Food",400.0,False,False,False
+Candy House,Delhi NCR,Janakpuri,0.0,0,Desserts,160.0,False,False,False
+Hotel Suruchi,Mumbai,Kharghar,3.2,13,"Seafood, Biryani, Chinese, Malwani",550.0,False,False,False
+The Hunger's Meal,Delhi NCR,Kirti Nagar,3.5,302,"North Indian, Chinese, Fast Food, Momos",350.0,True,False,True
+And It Was Called Yellow,Mumbai,"Reclamation, Bandra West",3.3,0,Modern Indian,300.0,False,False,False
+Bharat Ji Ladoo Waale,Meerut,Sadar Bazaar,3.1,7,Mithai,100.0,False,False,False
+Cake Land,Hyderabad,Nizampet,3.3,0,Bakery,250.0,True,False,False
+Chicha's,Hyderabad,Masab Tank,4.2,1685,"Mughlai, North Indian, Fast Food",800.0,False,False,False
+Monginis,Mumbai,Goregaon East,3.3,27,"Bakery, Fast Food",200.0,True,False,False
+Pizza Freakerz,Chandigarh,"Sector 67, Mohali",4.3,1139,"Pizza, Fast Food",650.0,True,False,False
+Bengali Sweet House,Patna,Patliputra Colony,3.1,78,"Desserts, Fast Food, Pizza, North Indian, Bakery",150.0,True,False,False
+Sweetish House Mafia,Mumbai,Lower Parel,4.2,817,"Bakery, Desserts",350.0,True,False,False
+Status Restaurant,Mumbai,Chembur,3.9,450,"North Indian, Chinese, Mughlai",800.0,True,False,False
+Center Point Restaurant and Bar,Mumbai,Kalwa,0.0,0,"North Indian, Chinese",650.0,True,False,False
+One Too Many - Regenza By Tunga,Mumbai,Vashi,4.2,654,"North Indian, Mexican, Italian, Finger Food",300.0,True,True,False
+The Irish House,Bengaluru,Whitefield,4.2,1967,"European, American",1700.0,True,True,False
+Momose,Kolkata,Golpark,3.2,4,"Tibetan, Momos",250.0,True,False,False
+Midday Munchies,Vadodara,Manjalpur,0.0,0,Fast Food,300.0,False,False,False
+Only Aaloo Pyaz,Delhi NCR,"Sector 20, Faridabad",3.2,17,North Indian,200.0,True,False,False
+B at Bay by Chef Ramu Butler,Kochi,Marine Drive,0.0,0,"Seafood, Kerala, South Indian",800.0,False,False,False
+Ravmchi's Vindhu,Hyderabad,Yousufguda,3.1,918,North Indian,400.0,True,False,False
+Cafe Coffee Day,Chennai,Adyar,2.7,78,"Beverages, Cafe, Sandwich, Fast Food, Desserts",600.0,True,False,False
+Cone Pizza Planet,Delhi NCR,Tilak Nagar,3.8,81,"Pizza, Fast Food",250.0,True,False,False
+Seasons Multi Cuisine Restaurant,Nainital,Sherwani,0.0,0,0,300.0,False,False,False
+AM-PM Food Court,Hyderabad,Tolichowki,3.7,67,"South Indian, Lebanese",250.0,True,False,False
+3Q Heritage,Bhubaneswar,Chandrasekharpur,2.8,100,"North Indian, Chinese, Continental, Biryani",500.0,True,False,False
+Delicious Treat,Bengaluru,Thippasandra,0.0,0,Fast Food,200.0,False,False,False
+Natural Ice Cream,Pune,JM Road,4.1,338,"Ice Cream, Desserts",150.0,True,False,False
+Ente Keralam,Coimbatore,Race Course,4.0,160,"Kerala, South Indian",750.0,True,False,False
+Buhari,Chennai,Purasavakkam,2.4,134,"Biryani, North Indian, Chinese",600.0,False,False,False
+The Chocolate Room,Varanasi,Bhelupur,3.8,45,Cafe,700.0,False,False,False
+Caramella's,Pune,Pimpri,3.5,69,"Bakery, Desserts",300.0,False,False,False
+Kapoor Punjabi Kulfi,Mumbai,Chowpatty,3.3,0,Ice Cream,200.0,False,False,False
+Swagruha Foods,Visakhapatnam,Madhurawada,3.8,64,Desserts,150.0,False,False,False
+Eat Confetti,Hyderabad,Jubilee Hills,3.9,328,"Desserts, Ice Cream",500.0,True,False,False
+Shree Sadguru Snacks Center,Pune,Rasta Peth,3.3,0,Fast Food,150.0,True,False,False
+Frozen Fantasies  Bharka Devi Icecream,Mumbai,Kalyan,0.0,0,"Ice Cream, Desserts",200.0,True,False,False
+Pappa Roti,Mumbai,"Majiwada, Thane West",3.8,62,"Desserts, Beverages, Fast Food",500.0,False,False,False
+krishna  Restorant,Jamnagar,Ajanta Society,0.0,0,Gujarati,200.0,False,False,False
+Sri Annapoornesgwari Hotel Veg,Bengaluru,International Airport,0.0,0,South Indian,200.0,False,False,False
+Crunch,Nagpur,Bajaj Nagar,3.2,4,Fast Food,200.0,False,False,False
+Big Wong,Delhi NCR,"Sector 16, Noida",4.2,0,"Chinese, Sushi, Thai, Poké, Asian",1000.0,True,False,True
+Urban Food Cafe,Patiala,Nabha,3.6,29,"Sandwich, Coffee, Cafe, Burger",200.0,True,False,False
+Chai Break,Bhubaneswar,Nayapalli,4.0,161,"North Indian, Chinese, Italian, Pizza, Biryani",750.0,True,True,False
+Pizza Hut,Delhi NCR,Sushant Lok,3.4,162,"Pizza, Fast Food",900.0,False,False,False
+Squeez,Hyderabad,Hitech City,3.2,4,"Sandwich, Juices, Ice Cream",200.0,False,False,False
+Dhadoom,Delhi NCR,Sohna Road,3.7,59,"Fast Food, Beverages",600.0,True,False,False
+JMJ Biriyani Mane,Bengaluru,Jalahalli,0.0,0,"South Indian, Biryani, North Indian, Chinese",300.0,False,False,False
+Arabic Junction,Thrissur,Poothole,3.4,7,Arabian,450.0,True,False,False
+Shri Jagdamba Pavitra Bhojanalya,Jaipur,Vaishali Nagar,3.3,0,North Indian,300.0,False,False,False
+Yadav Dhaba,Delhi NCR,"Sector 37, Faridabad",3.0,5,North Indian,300.0,False,False,False
+Peakking Hut,Amritsar,INA Colony,3.5,34,"North Indian, Chinese",400.0,True,False,False
+Kanahiya Lal Chaat Caterers,Delhi NCR,IP Extension,3.2,7,Street Food,200.0,True,False,False
+Faasos,Delhi NCR,Kalkaji,4.0,242,"North Indian, Fast Food, Biryani, Rolls, Wraps",550.0,True,False,True
+One2One The Restaurant,Hyderabad,Rajendra Nagar,3.3,0,North Indian,600.0,False,False,False
+Man V.S. Food,Ajmer,Kundan Nagar,3.3,0,North Indian,300.0,True,False,False
+New Bengal Sweets,Delhi NCR,Greater Kailash 1 (GK1),3.5,42,"Chinese, South Indian, Fast Food",250.0,False,False,False
+Sky Point-ITC Kohenur Luxury Collection,Hyderabad,Madhapur,3.8,35,North Indian,300.0,False,False,False
+Pondichery Cafe - Sofitel,Mumbai,Bandra Kurla Complex,4.2,1124,"French, European, Asian, North Indian, Healthy Food",300.0,False,True,False
+Chotiwala,Rishikesh,Swarg Ashram,0.0,0,North Indian,300.0,False,False,False
+#Shakes,Delhi NCR,Raj Nagar,3.3,0,"Desserts, Fast Food, Beverages",400.0,True,False,False
+The Black Cafe,Indore,Sudama Nagar,3.5,21,"Fast Food, Beverages",250.0,True,False,False
+ID,Chennai,Royapettah,4.2,745,South Indian,500.0,True,False,False
+Hotel Rajbhavan,Trichy,Srirangam,3.3,0,South Indian,250.0,False,False,False
+Jayka,Jaipur,Malviya Nagar,3.9,591,North Indian,300.0,True,False,False
+SHRI SANGEETHAS,Trichy,Tharanallur,3.4,8,"North Indian, South Indian",250.0,True,False,False
+Sweet And Sour - La Paz,Goa,Vasco,3.6,35,"Chinese, Seafood",500.0,True,False,False
+Real Taste Momos,Delhi NCR,Kalkaji,3.3,0,Momos,100.0,False,False,False
+Delight Ice Cream,Rajkot,Kotecha Nagar,3.1,9,"Ice Cream, Desserts",250.0,False,False,False
+Hotel Sai Krupa,Mumbai,"Hiranandani Estate, Thane West",3.4,32,"North Indian, Chinese, Mughlai, Seafood",700.0,True,False,False
+Buddha Tasty Way,Goa,Arambol,0.0,0,Tibetan,500.0,False,False,False
+Chatore Foods,Delhi NCR,Indirapuram,3.3,53,North Indian,300.0,True,False,False
+Shikara Lovely Chuski,Delhi NCR,India Gate,4.2,81,Desserts,150.0,False,False,False
+Sandwich Box Cafe,Jaipur,Chitrakoot,0.0,0,"Fast Food, Chinese",450.0,True,False,False
+Cafe Coffee Day,Hyderabad,L B Nagar,3.6,122,"Cafe, Desserts, Beverages, Fast Food",600.0,True,False,False
+Jaganath Bhel,Pune,Shivapur,3.4,15,Street Food,200.0,False,False,False
+Anjali Chinese Center,Bhopal,Airport Area,2.8,6,Chinese,300.0,True,False,False
+Down South,Pune,Salunkhe Vihar Road,3.6,133,South Indian,300.0,False,False,False
+Dunkin' Donuts,Bengaluru,Brookefield,4.1,218,"Cafe, Burger, Desserts",550.0,True,False,False
+Meal59,Lucknow,Indira Nagar,3.7,99,North Indian,250.0,True,False,False
+Calcutta Sweets,Kolkata,Dum Dum,2.8,8,Mishti,150.0,False,False,False
+A Bhagat Tarachand,Mumbai,Sanpada,3.9,666,"North Indian, Chinese",600.0,True,False,False
+Aagya Momo,Chennai,Thuraipakkam,3.4,16,"Momos, Fast Food, Chinese",300.0,True,False,False
+Domino's Pizza,Ahmedabad,Bopal,2.9,645,"Pizza, Fast Food",600.0,True,False,False
+Pizza Cave,Lucknow,Rajajipuram,4.0,117,"Pizza, Fast Food",250.0,True,False,False
+Open Tap,Delhi NCR,Sector 49,4.3,1374,"Finger Food, North Indian, Chinese, Italian",300.0,False,False,False
+Manisha Residency,Cuttack,Mal Godown Market,3.2,11,"North Indian, Chinese",300.0,True,False,False
+WOW! Momo,Kolkata,Chowringhee,3.9,248,"Tibetan, Momos",400.0,True,False,False
+Heist,Surat,Althan Bhatar,4.0,51,Fast Food,300.0,True,False,False
+Amrita Pure Veg,Pune,Baner,3.8,673,"North Indian, Chinese, Street Food",600.0,True,False,False
+Hunger Calling,Delhi NCR,Rohini,3.4,40,"Fast Food, Chinese",400.0,True,False,False
+Kottaram Restaurant,Bengaluru,BTM,3.3,0,"Arabian, Chinese, Kerala, Rolls, South Indian",250.0,False,False,False
+New Era Sajjad Hotel,Delhi NCR,Zakir Nagar,3.3,0,Mughlai,150.0,False,False,False
+Scarlet - By Amuse House,Delhi NCR,Khel Gaon Marg,4.1,311,"Mediterranean, European",300.0,False,True,False
+Lucknow Wale Special Galawati Kabab,Delhi NCR,Indirapuram,3.3,146,"Kebab, North Indian",400.0,True,False,False
+Heart Of Flavour,Aurangabad,MIDC,0.0,0,Bakery,200.0,False,False,True
+OCD - Oreo Compulsive Disorder,Chennai,Shenoy Nagar,4.2,126,Desserts,300.0,True,False,False
+Kedgy Bite,Delhi NCR,Subhash Nagar,0.0,0,Fast Food,100.0,False,False,False
+D.K Litti Corner,Patna,Sri Krishnapuri,0.0,0,Bihari,250.0,False,False,False
+Shivam's Pizza,Jabalpur,Napier Town,3.9,60,Pizza,200.0,True,False,False
+Tamilan Restro,Indore,HIG-LIG,3.3,0,South Indian,100.0,False,False,False
+Desi Tadka Restaurant,Nagpur,Wardha Road,0.0,0,North Indian,600.0,False,False,False
+Mughal Biryani,Hyderabad,Madhapur,3.3,0,Biryani,450.0,True,False,False
+Punjabi Express Food,Delhi NCR,Nangloi,0.0,0,North Indian,350.0,False,False,False
+New Delhi Chat Bhandar,Jhansi,Purana Sahar,3.8,53,Street Food,100.0,False,False,False
+Red Lantern Chinese Fast Food Center,Goa,Colva,0.0,0,"Chinese, North Indian, Thai",800.0,False,False,False
+Chocotarian,Kolkata,Kankurgachi,3.9,187,"Bakery, Desserts",200.0,False,False,False
+Ramana Mess,Madurai,Iyer Bungalow,4.2,124,South Indian,150.0,False,False,False
+Bhuvnesh Ice Cream Parlour,Agra,Agra Cantt,3.3,0,"Ice Cream, Desserts, Fast Food, Beverages",200.0,True,False,False
+Adraq by OYO,Bengaluru,Hebbal,3.3,0,"North Indian, Mughlai",300.0,True,False,True
+Royal Challenge,Mumbai,Bhayandar,3.1,4,"North Indian, Chinese, Mangalorean, Seafood",500.0,False,False,False
+Hashtag Foods,Delhi NCR,Delhi University-GTB Nagar,4.1,185,"Fast Food, Beverages",600.0,True,False,False
+Hotel New Shama,Aurangabad,MIDC,4.0,61,North Indian,150.0,True,False,False
+Dulhe Raja The Dhaba,Kolkata,New Town,3.2,9,North Indian,200.0,False,False,False
+Yo Ho Corner,Mumbai,Goregaon East,0.0,0,"Maharashtrian, Chinese, Fast Food",300.0,False,False,False
+New Cafe Corner,Pune,Ghorpadi,0.0,0,Fast Food,200.0,False,False,False
+Regency Restaurant & Bar,Mumbai,Near Andheri East Station,4.1,301,"North Indian, Mughlai, Chinese",1200.0,True,True,False
+Jai Hind Restaurant,Agra,Agra Cantt,3.8,60,North Indian,350.0,False,False,False
+Jai Jalaram Khaman House,Surat,Sagrampura,3.5,50,"Gujarati, Fast Food",350.0,True,False,False
+Mumbai Kulfi,Chennai,Sholinganallur,3.8,61,"Desserts, Ice Cream",100.0,True,False,False
+Goli Vada Pav No.1,Mumbai,Airoli,0.0,0,Street Food,150.0,False,False,True
+Happy Life,Gwalior,City Center,3.5,11,0,300.0,True,False,False
+Zhakaas Biryani & More,Mumbai,Jogeshwari,0.0,0,Biryani,200.0,False,False,False
+Tastee,Mumbai,Worli,3.7,126,"South Indian, Fast Food, Street Food, Beverages",500.0,False,False,False
+Krishna Sweets,Raipur,Shankar Nagar,3.6,27,"Mithai, Street Food",300.0,True,False,False
+Refuel,Chennai,Kelambakkam,0.0,0,North Indian,400.0,False,False,False
+Ribbons & Balloons,Pune,Balewadi,3.1,8,"Bakery, Desserts",350.0,False,False,False
+Burger Singh - Big Punjabi Burgers,Delhi NCR,Khan Market,3.5,54,"Fast Food, Burger, Beverages",300.0,True,False,False
+Dr. Grill,Coimbatore,Lakshmi Mills,3.9,164,"Mughlai, Continental, Middle Eastern",600.0,True,False,False
+Pasta Cafe,Delhi NCR,Ashok Vihar Phase 3,3.2,25,Italian,400.0,True,False,False
+The Breakfast Stories,Hyderabad,Hyderabad City,3.3,0,South Indian,300.0,False,False,False
+KourtYard,Jamshedpur,Sakchi,3.8,47,"Continental, Chinese",800.0,True,False,False
+Dosa King & Chinese,Surat,Puna,3.3,9,"South Indian, Chinese",300.0,True,False,False
+The Northern Vibe,Mumbai,Powai,4.6,167,"Momos, Rolls, Fast Food",300.0,True,False,False
+Sree Sai Bakery,Chennai,Anna Nagar West,0.0,0,"Bakery, Beverages",150.0,False,False,False
+Chai Point,Delhi NCR,"Sector 56, Gurgaon",3.7,0,"Beverages, Tea, Fast Food",250.0,True,False,False
+K.G.N. Soda Fountain & Ice Cream,Ahmedabad,Kankaria,0.0,0,"Beverages, Desserts",50.0,False,False,False
+Anandamayee Sweets,Kolkata,Baranagar,4.0,147,Mishti,100.0,True,False,False
+Veg Panta,Meerut,Meerut Cantt,3.1,7,Chinese,250.0,True,False,False
+Pizza Castle,Delhi NCR,Amrapali Leisure Valley,3.2,11,"Pizza, Fast Food",400.0,False,False,False
+Go Foodiezz,Delhi NCR,NIT,3.5,239,"North Indian, South Indian, Chinese",600.0,True,False,False
+Food Tree,Delhi NCR,Badarpur Border,3.3,0,"Rolls, Chinese",150.0,False,False,False
+Mukesh Sweets & Restaurant,Delhi NCR,Aaya Nagar,0.0,0,"Mithai, North Indian",250.0,False,False,False
+Delux Bakery,Ajmer,Railway Quarters,0.0,0,Bakery,300.0,False,False,False
+O'Biryani By OYO,Bengaluru,Bellandur,0.0,0,Biryani,250.0,False,False,True
+Krishna Sweets & Dairy Products,Chandigarh,Dhakoli,2.9,5,Mithai,200.0,False,False,False
+Sangeetha Veg Restaurant,Chennai,Mylapore,4.2,410,"South Indian, North Indian, Chinese",500.0,True,False,False
+Rohit Family Restaurant,Pune,Lonavala,3.0,4,"North Indian, Chinese",350.0,False,False,False
+In High Spirits - SP Grand Days,Trivandrum,Thycaud,3.0,12,"South Indian, North Indian, Continental, Chinese, Kerala",300.0,False,False,False
+Maa Reddy's Hyderabadi Biryani House,Bengaluru,Hosur Road,3.3,51,"Biryani, Andhra, North Indian, Chinese",400.0,True,False,False
+16th Century Wok & Biryani Kitchen,Mumbai,Ulwe,3.3,0,"Chinese, Biryani",400.0,False,False,False
+MoShik's Homemade Chocolates,Bhopal,Gulmohar Colony,4.9,222,Desserts,250.0,True,False,False
+Snort,Hyderabad,Hitech City,3.9,324,"North Indian, Chinese, Continental, Finger Food",300.0,True,True,False
+The Lab,Mumbai,Prabhadevi,3.8,242,"North Indian, Chinese, Continental, Fast Food, Pizza, Desserts",700.0,True,False,False
+Kremes N Krusts,Pune,Baner,3.6,161,"Cafe, Pizza, Bakery, Fast Food",300.0,True,False,False
+Adraq,Pune,Hinjawadi,0.0,0,"North Indian, Mughlai",300.0,False,False,True
+Style of Bombay Sandwich,Vadodara,Kendranagar,3.8,48,"Sandwich, Pizza",300.0,True,False,False
+Lulu's Family Restaurant,Bengaluru,KR Puram,3.7,98,"North Indian, Chinese, Street Food",300.0,True,False,False
+Sandy's Chocolate Laboratory,Chennai,Teynampet,4.2,712,"Desserts, Fast Food, Italian",1400.0,True,True,False
+Maa Bhubaneswari Hotel,Bhubaneswar,Chandrasekharpur,3.0,8,"North Indian, Odia",500.0,False,False,False
+Flavors Restaurant,Bengaluru,Whitefield,2.9,16,"North Indian, Chinese",700.0,False,False,False
+The Young Generation Food Point,Chandigarh,"Sector 42, Chandigarh",3.3,0,"Chinese, Fast Food, Beverages",150.0,True,False,False
+Jasmine Restaurant,Coimbatore,Ganapathy,3.6,26,"South Indian, Chinese",300.0,True,False,False
+Monika Pizza,Vadodara,Central Vadodara,3.4,18,"Pizza, Fast Food",250.0,True,False,False
+The Four Legends,Ludhiana,BRS Nagar,3.6,22,"North Indian, Fast Food",500.0,True,False,True
+Shudh-The-Restro,Kota,RPS Colony,3.4,13,North Indian,400.0,True,False,False
+One Star Kaveri,Ranchi,Harmu,0.0,0,Chinese,200.0,False,False,False
+Cakes 24X7,Delhi NCR,"Sector 39, Gurgaon",0.0,0,Bakery,500.0,False,False,True
+Adil's Chinese Corner,Aurangabad,Shahgunj,3.1,8,Chinese,150.0,False,False,False
+Chill Out Cafe,Udaipur,Hiran Magri,3.5,55,Cafe,300.0,True,False,False
+Good Friend Cafe,Agra,Tajganj,3.4,21,Fast Food,400.0,True,False,False
+Namrata's Kitchen,Nagpur,Dhantoli,3.3,0,Maharashtrian,300.0,False,False,False
+Sweet Truth,Bengaluru,"ITPL Main Road, Whitefield",3.8,16,"Bakery, Desserts",300.0,True,False,True
+Laziz Pizza,Kanpur,Nandlal Chawraha,3.5,158,"Fast Food, Pizza",550.0,True,False,False
+Ramaa's The Hyderabadi Food Court,Chennai,Anna Nagar East,3.9,180,"Chinese, North Indian",600.0,True,False,False
+Anand Dum Biryani,Bengaluru,Old Madras Road,4.0,73,Biryani,400.0,False,False,False
+SmokinStone Cafe,Delhi NCR,Subhash Nagar,0.0,0,Fast Food,300.0,True,False,False
+Sunrise Pure Veg Garden Restaurant,Jaipur,Mansarovar,3.5,38,North Indian,700.0,False,False,False
+Pizza Hut,Nagpur,Dhantoli,3.3,0,"Pizza, Fast Food, Italian",550.0,True,False,False
+WOW! Momo,Thrissur,Puzhakkal,3.2,6,Tibetan,300.0,True,False,False
+Pink City Pizza Parlour,Jaipur,Vidhyadhar Nagar,3.5,27,"Fast Food, Chinese, Pizza",400.0,True,False,False
+Ashok Snacks Point,Nagpur,Dharampeth,3.0,6,"South Indian, Fast Food",100.0,True,False,False
+Live Punjabi & Chinese,Ahmedabad,Manek Chowk,3.1,13,"North Indian, Chinese",300.0,True,False,False
+Chicken Point,Delhi NCR,"Surya Nagar, Ghaziabad",3.3,31,"North Indian, Mughlai",400.0,False,False,False
+Monginis,Mumbai,CBD-Belapur,2.6,22,"Bakery, Fast Food",200.0,False,False,False
+Lemonade Labs,Delhi NCR,Gurgaon (Gurugram),0.0,0,Beverages,150.0,False,False,True
+Waffle.In,Delhi NCR,Hauz Khas,0.0,0,"Desserts, Beverages",400.0,True,False,False
+Ching's Biryani,Ahmedabad,Isanpur,2.9,12,"Mughlai, Biryani",450.0,False,False,True
+Gopal Khaman House,Surat,New Textile Market,3.5,118,Gujarati,400.0,False,False,False
+Pandit Ji Veg Station,Delhi NCR,Raj Nagar,0.0,0,Fast Food,150.0,False,False,False
+Indira Canteen,Bengaluru,RT Nagar,0.0,0,South Indian,100.0,False,False,False
+Roll N Tandoor,Kolkata,Shibpur,3.6,80,"Mughlai, Street Food, Rolls",100.0,False,False,False
+Ek Cutting,Mumbai,Malad East,0.0,0,Tea,200.0,True,False,False
+Shama Dhaba,Chandigarh,Ambala Road,3.2,15,"Biryani, North Indian",400.0,True,False,False
+Samudra,Mumbai,Dahisar East,3.2,7,"Chinese, North Indian, Seafood",600.0,False,False,False
+Domino's Pizza,Guwahati,Zoo Tiniali,4.0,259,"Pizza, Fast Food",400.0,True,False,False
+Balaji Dosa Centre,Mumbai,Vile Parle West,3.6,17,"South Indian, Fast Food",200.0,False,False,False
+Ribbons & Balloons,Pune,Kharadi,2.9,20,"Bakery, Desserts",350.0,False,False,False
+Dani Halwai,Gwalior,Lashkar,2.9,8,"Street Food, Mithai",200.0,False,False,False
+Sri Krishna Sweets,Chennai,Chromepet,3.2,33,"Mithai, Street Food",200.0,True,False,False
+Sri Aryaas Veg,Madurai,Southern Railway Colony,3.4,20,South Indian,200.0,True,False,False
+Keuchen Paradise,Delhi NCR,Mayur Vihar Phase 1,3.5,43,Bakery,300.0,True,False,False
+Mughal e Dabba,Kolkata,New Town,0.0,0,Mughlai,350.0,True,False,False
+Gufha Restaurant,Mysore,Doora,4.3,995,"North Indian, Biryani, Chinese",300.0,True,False,False
+Yeti - The Himalayan Kitchen,Delhi NCR,Connaught Place,4.9,190,"Tibetan, Nepalese, Momos",1900.0,True,False,False
+Guwahati Grill,Guwahati,Beltola,3.3,12,North Indian,600.0,True,False,False
+Ambrosia,Bengaluru,International Airport,3.9,22,"Continental, South Indian, North Indian, Chinese",300.0,False,False,False
+Kargeens,Bengaluru,New BEL Road,3.9,376,"Cafe, Italian, Pizza, Continental",900.0,True,False,False
+Adraq,Mumbai,Near Andheri East Station,2.9,38,"North Indian, Mughlai",300.0,True,False,True
+Hot Chilies,Delhi NCR,Uttam Nagar,2.9,10,Chinese,250.0,True,False,False
+Courtallam Border Parotta,Chennai,Velachery,2.2,276,"North Indian, South Indian, Chettinad",750.0,True,False,False
+Bite n Feast,Allahabad,Civil Lines,0.0,0,North Indian,250.0,False,False,False
+Dao Restaurant,Udaipur,Fateh Sagar,3.7,36,"North Indian, Chinese",300.0,False,False,False
+Real Food Mall,Chennai,Potheri,3.6,942,"Biryani, South Indian",300.0,True,False,False
+Moon,Goa,Old Goa,0.0,0,"Goan, Seafood",300.0,False,False,False
+Kumbakonam Subbaiya Mess,Chennai,Valasaravakkam,3.3,0,South Indian,100.0,False,False,False
+Sindhu Family Restaurant,Bengaluru,New BEL Road,3.2,4,"North Indian, Chinese, Seafood",600.0,False,False,False
+Paarth's Test Restaurant,Visakhapatnam,Arilova,3.3,0,Mexican,300.0,False,False,False
+Roffles,Kolkata,Elgin,3.9,95,Desserts,400.0,True,False,False
+Jai Bhavani Hotel,Bengaluru,Nagawara,2.9,18,North Indian,250.0,False,False,False
+Royal Italy,Goa,Palolem,3.3,6,"North Indian, Continental",750.0,False,False,False
+Rock & Jazz Cafe,Bhopal,BHEL,3.3,0,"Fast Food, Chinese",250.0,True,False,False
+Panwaadi,Delhi NCR,Pitampura,0.0,0,Paan,100.0,False,False,False
+Delux Ice Cream,Rajkot,Race Course,4.2,128,Ice Cream,250.0,True,False,False
+Dial For Cake,Delhi NCR,Mehrauli,0.0,0,Bakery,500.0,True,False,True
+Navab's,Delhi NCR,"Sector 37, Faridabad",3.8,0,Mughlai,600.0,False,False,True
+Flavours Guru,Delhi NCR,Malviya Nagar,3.5,26,Bakery,200.0,False,False,False
+Papa Ji Da Dhaba,Agra,Civil Lines,4.1,409,North Indian,250.0,True,False,False
+Just Pizza,Bengaluru,Old Airport Road,0.0,0,Pizza,800.0,True,False,True
+China Town,Kolkata,Tollygunge,3.6,95,"Chinese, North Indian, Seafood",700.0,True,False,False
+Waff Up!,Indore,Vijay Nagar,3.3,10,Desserts,500.0,True,False,False
+Pizza Hut,Jaipur,Bais Godam,3.7,484,"Pizza, Italian, Fast Food",900.0,True,False,False
+HUB,Pune,Hinjawadi,3.9,1447,"North Indian, Chinese, Continental, Italian, Salad, Desserts",1400.0,False,True,False
+Ramana Tiffins,Hyderabad,Padmarao Nagar,3.3,21,South Indian,100.0,True,False,False
+Junction Restaurant,Jamshedpur,Gamharia,3.8,111,"Biryani, North Indian",400.0,True,False,False
+DMF Restaurant,Coimbatore,Ramanathapuram,3.5,34,"North Indian, South Indian, Chinese, Biryani",350.0,True,False,False
+Cafe 21 East,Pune,Warje,3.1,8,Cafe,350.0,True,False,False
+Raju Fast Food And Chat Bhandaar,Ludhiana,Aggar Nagar,3.7,104,"Fast Food, Chinese",250.0,True,False,False
+Pi & Kha,Jaipur,Mansarovar,0.0,0,"Street Food, Beverages",200.0,True,False,False
+Khalsa Kulcha Land,Amritsar,INA Colony,3.3,0,North Indian,300.0,False,False,False
+Siddhivinayak Amruttulya,Aurangabad,Ulkanagari,3.3,0,"South Indian, North Indian",200.0,False,False,False
+Lazeez Restaurant,Kota,Dhanmandi,0.0,0,"Mughlai, North Indian",150.0,False,False,False
+Smoke 'N' Grill,Visakhapatnam,Chinna Waltair,3.2,7,BBQ,500.0,False,False,False
+Chechi's Foods,Kochi,Kaloor,3.1,7,Kerala,100.0,True,False,True
+Kadhai Punjabi Dhaba,Mumbai,Kharghar,3.2,127,"North Indian, Chinese",650.0,True,False,False
+Laxmi Bikaner Restaurant,Amritsar,Hathi Gate,0.0,0,North Indian,600.0,False,False,False
+Chicklicious,Delhi NCR,Kavi Nagar,3.1,5,"North Indian, Chinese",350.0,True,False,False
+S-Den Fastfood,Mumbai,Vasai,0.0,0,"Chinese, North Indian",300.0,False,False,False
+Banarasi Kasi Chat Bhandar,Agra,Civil Lines,0.0,0,"North Indian, Fast Food",150.0,True,False,False
+Istanbul,Hyderabad,Tolichowki,4.1,567,Middle Eastern,400.0,False,False,False
+Shree Catering Service,Mumbai,Turbhe,0.0,0,"Fast Food, Chinese",300.0,False,False,False
+Cheese N Freeze,Chennai,Nanganallur,3.7,135,Fast Food,300.0,False,False,False
+Pink Box,Delhi NCR,Hauz Khas,4.2,463,"Bakery, Desserts",450.0,True,False,False
+The Cake Point,Chennai,Chromepet,3.4,32,Bakery,400.0,False,False,False
+The Belgian Waffle Co.,Mumbai,Malad West,3.9,273,"Desserts, Beverages",300.0,True,False,False
+Spoil,Hyderabad,Jubilee Hills,3.4,410,"North Indian, Mughlai, Finger Food",300.0,False,False,False
+The Saucypop by Saucy Side Up,Mumbai,Chakala,3.3,0,"Fast Food, Chinese",500.0,False,False,False
+Z Momo,Kolkata,Belghoria,3.2,9,"Momos, Tibetan",300.0,True,False,False
+Royal Kitchen,Vellore,Katpadi,0.0,0,"Chinese, Indian",350.0,False,False,False
+Nest Feeding,Chandigarh,Kharar Road,3.3,0,Fast Food,150.0,True,False,False
+L'Opéra Salon de Thé,Delhi NCR,Nehru Place,4.2,340,"Bakery, Desserts",650.0,True,False,False
+Coastal Kitchen,Goa,Margao,0.0,0,"North Indian, Lebanese",800.0,False,False,False
+Rio Restaurant,Bengaluru,Jakkur,0.0,0,"Arabian, Chinese, North Indian",400.0,False,False,False
+Hot & Cool Cafe,Delhi NCR,Vaishali,3.0,4,Fast Food,150.0,False,False,False
+The Klay Pot Biryani,Bengaluru,Koramangala 7th Block,3.6,29,"Andhra, Biryani, Chinese",400.0,True,False,False
+Amrit Restaurant & Sweets,Kanpur,Kakadeo,3.9,26,"North Indian, Chinese, Italian, Mithai, South Indian",400.0,True,False,False
+Subway,Bengaluru,Whitefield,2.8,57,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+Kulcha Cafe,Delhi NCR,"Sector 21, Faridabad",3.4,110,North Indian,100.0,False,False,False
+Dakshin - WelcomHotel Grand Bay,Visakhapatnam,Jagadamba Junction,3.7,74,South Indian,1500.0,False,False,False
+Double Barrel Brew Pub,Mysore,Yadavgiri,4.1,86,"Asian, Italian, Mexican, European, North Indian",600.0,False,False,False
+The Dark Fountain Cafe,Delhi NCR,Kalkaji,3.6,36,Desserts,400.0,True,False,False
+Flying Cakes,Bengaluru,JP Nagar,0.0,0,Bakery,500.0,False,False,False
+Kafe Tirupati,Hyderabad,Madhapur,3.5,41,South Indian,100.0,True,False,False
+King Kulfa Katra Jaimal Singh Wale,Amritsar,Basant Nagar,3.3,0,Desserts,150.0,True,False,False
+Hotel blue lagoon,Haridwar,Har Ki Pauri,0.0,0,North Indian,400.0,False,False,False
+Lovel's Kitchen,Delhi NCR,"Sector 22, Gurgaon",0.0,0,"North Indian, South Indian, Fast Food",450.0,False,False,False
+Dawat-E-Biryani,Delhi NCR,Hauz Khas,3.6,42,"Biryani, North Indian",400.0,True,False,False
+Ajay's,Surat,Athwa,3.8,110,"Fast Food, Beverages",150.0,True,False,False
+Its Pizza Lounge,Delhi NCR,Azadpur,3.6,26,Pizza,250.0,True,False,False
+Roll Bites,Pune,Baner,0.0,0,"Rolls, Fast Food",300.0,True,False,False
+Ashirbad Biryani,Kolkata,Barrackpore,3.4,55,Biryani,200.0,True,False,False
+Frost Foods,Vadodara,Akota,3.3,0,Desserts,200.0,True,False,False
+Lovely Dhaba,Amritsar,Ranjit Avenue,4.0,162,"Chinese, North Indian, Rolls, Beverages",500.0,True,False,False
+Ajantha Bakers & Sweets,Chennai,Saligramam,3.0,5,"Bakery, Fast Food, Street Food",150.0,False,False,False
+Bawarchi's Biryani,Surat,Adajan Gam,3.3,0,"North Indian, Biryani, BBQ, Healthy Food, Kashmiri, Lucknowi, Street Food",500.0,True,False,False
+Chief Bakers,Chandigarh,Dhakoli,3.6,49,"Bakery, Burger, Sandwich, Pizza",150.0,False,False,False
+Laziz Parathas,Hyderabad,Gachibowli,3.0,4,North Indian,350.0,True,False,False
+Arzoo Biryani,Kolkata,Baranagar,3.4,17,Biryani,400.0,False,False,False
+Coffee Day Beverages,Ranchi,Lalpur,3.3,0,Beverages,200.0,False,False,False
+Sports Bar - Le Meridien,Bengaluru,Sankey Road,3.7,34,Finger Food,300.0,False,False,False
+Aggarwal Sweet India,Delhi NCR,Najafgarh,2.9,9,"Mithai, Street Food",200.0,False,False,False
+Omm Sairam Restaurant,Bhubaneswar,Khandagiri,3.2,10,"Mithai, Odia",200.0,False,False,False
+Dap Spicy Restro,Dehradun,Prem Nagar,0.0,0,Fast Food,150.0,False,False,False
+Naivedyam Restaurant,Udaipur,Hiran Magri,3.4,15,"North Indian, South Indian, Chinese",600.0,True,False,False
+Durbar Greens Family Restaurant,Bengaluru,Hosur Road,3.5,10,"North Indian, Chinese, South Indian",700.0,False,False,False
+Biryani Affairs,Guwahati,Beltola,3.2,7,"Biryani, North Indian",500.0,False,False,False
+Sippers,Lucknow,Aashiana,3.3,0,"Desserts, Beverages, Fast Food",450.0,True,False,False
+PIND BALLUCHI,Delhi NCR,"Sector 29, Gurgaon",3.8,1454,"North Indian, Mughlai, Kebab",1300.0,True,True,False
+Jazz Pizza,Pune,NIBM Road,3.5,398,"Italian, Fast Food",500.0,True,False,False
+Srinivasa Tiffin Centre,Hyderabad,Vanasthalipuram,3.5,63,South Indian,100.0,False,False,False
+Raaga Imperio,Pune,Ravet,3.3,0,"North Indian, Chinese, Continental, Seafood, Desserts",300.0,False,True,False
+Uncle Bakes,Thrissur,Poothole,3.6,13,"South Indian, Chinese",250.0,True,False,False
+Sagar,Mumbai,Marve,3.6,181,"North Indian, Chinese, Biryani, Seafood",700.0,True,False,False
+Raju Kulfiwala,Amritsar,Town Hall,0.0,0,Desserts,100.0,False,False,False
+Baskin Robbins,Bengaluru,Marathahalli,0.0,0,"Ice Cream, Desserts",300.0,False,False,False
+Pizza On Wheels,Delhi NCR,Paschim Vihar,3.3,9,Pizza,300.0,False,False,False
+Homely Restaurant,Chennai,Chengalpattu,3.2,4,"South Indian, Chinese",400.0,False,False,False
+Tempatation Family Restaurant,Mumbai,Nerul,0.0,0,"Chinese, North Indian, Mughlai",600.0,False,False,False
+Lovely Sandwich Centre,Ahmedabad,Kalupur,0.0,0,Fast Food,200.0,False,False,False
+Food Maniya,Delhi NCR,"Sector 57, Gurgaon",0.0,0,North Indian,500.0,True,False,False
+Shree Bikaner Mishthan Bhandar,Delhi NCR,NIT,3.4,54,"Mithai, Street Food",100.0,True,False,False
+Jhanavi Restaurant,Bengaluru,Koramangala 1st Block,0.0,0,"North Indian, Chinese, Rolls",400.0,True,False,False
+Cakes and Bakes,Guwahati,Uzan Bazaar,2.9,2,"Bakery, Desserts",100.0,False,False,False
+Gupta Rolls & Snacks,Ranchi,Harmu,3.6,75,"Rolls, North Indian, Chinese",250.0,True,False,False
+Cafe 17,Kochi,Ravipuram,3.3,0,"American, Continental, Italian",1000.0,True,False,False
+Shravani Pure Veg,Pune,Pimpri,0.0,0,"Maharashtrian, South Indian, North Indian",500.0,False,False,False
+Rasavid,Chennai,Thuraipakkam,3.9,516,"Andhra, Hyderabadi, Chinese, North Indian, Biryani",800.0,True,True,False
+Vin Hortons By Zea Gourmet,Chennai,Madipakkam,3.3,0,Fast Food,300.0,False,False,False
+Arvind Nashta Centre,Raipur,Moudhapara,0.0,0,"Fast Food, North Indian",50.0,False,False,False
+Baker's Maison,Mumbai,Mulund West,3.5,29,"Bakery, Desserts",500.0,False,False,False
+Shiraz Golden Restaurant,Kolkata,Park Street Area,4.0,2424,"Mughlai, North Indian",500.0,True,False,False
+Fork Of Pasta,Delhi NCR,Lajpat Nagar 4,3.1,110,"Fast Food, Chinese, Burger, Sandwich, Beverages",450.0,True,False,False
+Emporio Patisserie,Mumbai,Near Andheri East Station,0.0,0,"Desserts, Fast Food",200.0,False,False,False
+Back to Kerala,Vadodara,Gotri,3.7,93,South Indian,350.0,True,False,False
+Ghosh Mahasay Sweets,Kolkata,Kalikapur,0.0,0,Mishti,100.0,False,False,False
+Cafe Chokolade,Pune,Wanowrie,3.5,52,"Cafe, Desserts",450.0,True,False,False
+Lickity Garden,Bengaluru,Frazer Town,3.7,31,"Continental, Mexican, Biryani, Italian, Chinese, Arabian, Steak",500.0,True,False,False
+Aleef Briyani,Chennai,Parrys,0.0,0,Biryani,150.0,False,False,False
+Mr. Idly Dosa,Hyderabad,Miyapur,3.6,199,South Indian,200.0,True,False,False
+Dawat Restaurant,Dehradun,Prem Nagar,3.3,0,"North Indian, Chinese",200.0,True,False,False
+Mira's Lil' Bakery,Kolkata,"Sector 3, Salt Lake",3.3,15,"Bakery, Desserts",300.0,False,False,False
+Shiva Chinese Fast Foods,Delhi NCR,Crossing Republik,0.0,0,Fast Food,200.0,False,False,False
+Just Bake,Hyderabad,Amberpet,3.7,55,"Bakery, Desserts, Fast Food",400.0,True,False,False
+My Family Restaurant,Delhi NCR,"MG Road, Gurgaon",3.6,33,"North Indian, Chinese",600.0,False,False,False
+Play Town Cafe The Fun Factory,Jalandhar,Urban Estate,3.2,15,"Cafe, Fast Food, Continental, Chinese",400.0,True,False,False
+Yaar Anmulle Food Corner,Delhi NCR,Hauz Khas,3.3,17,North Indian,400.0,True,False,False
+B'Cafe,Delhi NCR,"Sector 72, Noida",0.0,0,"Chinese, Beverages",600.0,False,False,False
+Chai Joy,Hyderabad,Himayath Nagar,3.3,0,"Tea, Beverages, Fast Food",250.0,False,False,False
+Baskin Robbins,Kolkata,Ruby Hospital Area,3.7,34,"Ice Cream, Desserts, Beverages",200.0,True,False,False
+Side Wok,Delhi NCR,Golf Course Road,4.1,644,"Asian, Chinese, Japanese, Thai",300.0,True,True,False
+Vasireddy Swagruha Foods,Hyderabad,Miyapur,3.1,7,"South Indian, North Indian, Mithai",250.0,False,False,False
+Kwality Wall's,Pune,Koregaon Park,0.0,0,"Ice Cream, Desserts",200.0,False,False,True
+The Peg,Ajmer,Ana Sagar Lake,0.0,0,"North Indian, Chinese",300.0,True,False,False
+Goodwill Cafe,Hyderabad,Padmarao Nagar,3.0,6,Street Food,100.0,False,False,False
+Talwar Vaishno Dhaba,Jalandhar,Shastri Nagar,3.3,16,North Indian,150.0,True,False,False
+Country Club Pizza,Delhi NCR,Malviya Nagar,3.3,0,Italian,250.0,True,False,False
+The London Shakes,Indore,New Palasia,2.8,9,"Beverages, Fast Food",350.0,False,False,False
+Subway,Trichy,Thillai Nagar,3.8,53,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+KSP Kitchen Spices Restaurant,Mumbai,Ulhasnagar,3.3,0,"South Indian, North Indian, Street Food",300.0,True,False,False
+Mr.Food Da Dhaba @99,Mumbai,Airoli,0.0,0,North Indian,200.0,False,False,False
+Slounge - Lemon Tree,Delhi NCR,Sector 60,0.0,0,North Indian,300.0,False,True,False
+Rasmadhur Sweets,Ahmedabad,Ambavadi,3.3,18,"Mithai, Fast Food",200.0,False,False,False
+Ramdeo Bhog,Pune,Dhankawadi,3.0,8,"Fast Food, North Indian",150.0,True,False,False
+Treat Box,Mumbai,Khar,0.0,0,"North Indian, Chinese",500.0,False,False,True
+Cafeteria Food And Juice Box,Aurangabad,Usmanpura,0.0,0,"Juices, Beverages, Fast Food",150.0,True,False,False
+Chicky Chocky,Mumbai,Nalasopara,2.9,7,Chinese,300.0,True,False,False
+MusTea,Mumbai,Chakala,3.8,323,"Fast Food, Beverages",500.0,True,False,False
+After 10,Patna,Kankarbagh,3.3,0,"North Indian, Biryani",250.0,False,False,True
+Zohra,Mumbai,Kharghar,3.7,1058,"North Indian, Mughlai, Chinese",700.0,True,False,False
+Lord of The Juices,Delhi NCR,Sushant Lok,3.3,10,"Beverages, Fast Food",250.0,True,False,False
+Sanskar Upvan,Bhopal,Kolar,0.0,0,"North Indian, Fast Food, Chinese",500.0,True,False,False
+Pirajees,Pune,Hadapsar,0.0,0,Bakery,250.0,False,False,False
+Pinki Soup Corner,Delhi NCR,Rohini,3.5,25,Healthy Food,100.0,True,False,False
+Pizza Theory,Vadodara,Alkapuri,3.4,80,Pizza,400.0,True,False,False
+The Chinese Caidan,Bhubaneswar,Unit 4,3.2,7,"North Indian, Fast Food, Chinese",150.0,True,False,False
+Chai Peeni Hai,Delhi NCR,India Gate,3.7,26,"Tea, Fast Food",200.0,True,False,False
+Hotel Carmel,Kochi,Palarivattom,0.0,0,"Kerala, South Indian",200.0,False,False,False
+Krishna Sandwich And Pizza Centre,Ahmedabad,Manek Chowk,3.3,0,Fast Food,150.0,True,False,False
+Blue Marble,Delhi NCR,SDA,3.3,0,"Coffee, Sandwich, Beverages",300.0,False,False,True
+Al-baik.com,Lucknow,Indira Nagar,3.4,39,"Arabian, Fast Food",500.0,True,False,False
+Food Lover,Cuttack,Siba Bazaar,3.2,11,"Chinese, Rolls",250.0,True,False,False
+Momo Mia,Delhi NCR,"Sector 37, Noida",3.7,34,"Momos, North Indian, Rolls",400.0,True,False,False
+Andhra Bhavan,Delhi NCR,Hauz Khas,3.3,5,South Indian,250.0,True,False,False
+Delight Restaurant,Mumbai,Jogeshwari,0.0,0,Chinese,300.0,False,False,False
+Chawla Snacks,Delhi NCR,Jangpura,3.5,33,"North Indian, Rolls",250.0,False,False,False
+Mom's Food Creations,Bhopal,Jhangirabad,0.0,0,North Indian,200.0,False,False,False
+Shri Pankaj Pavitra Bhojanalaya,Jaipur,Bapu Nagar,0.0,0,North Indian,300.0,False,False,False
+Maa Sha Allah Restaurant,Vadodara,Diwalipura,3.3,0,"Mughlai, Gujarati",300.0,False,False,False
+Kakas Veg,Jaipur,Mansarovar,3.1,10,North Indian,500.0,True,False,False
+Hyderabadi Bawarchi,Hyderabad,Vanasthalipuram,3.4,681,"North Indian, Chinese",600.0,False,False,False
+Wayle Kaka Biryani House,Mumbai,Kalyan,2.9,43,Biryani,300.0,True,False,False
+Masala Mantar,Mumbai,Kurla,0.0,0,"North Indian, Biryani",550.0,True,False,False
+Sahil,Mumbai,Jogeshwari,3.5,80,"Chinese, North Indian, Mughlai, Seafood",350.0,True,False,False
+PuraniDilli - 13,Mumbai,Kurla,4.3,95,"Iranian, North Indian, Kebab",800.0,True,True,False
+24 Ave Pizza,Kolkata,Ballygunge,3.3,0,Fast Food,600.0,True,False,False
+Baba Sweets & Namkeen,Kanpur,Ghantaghar,3.0,8,Desserts,200.0,False,False,False
+Elizz Food Block,Shimla,Panthaghati,0.0,0,"North Indian, Modern Indian, Bar Food, American, Afghan",350.0,True,False,False
+Omkar Cafe Veg,Bengaluru,Basavanagudi,0.0,0,South Indian,150.0,False,False,False
+Domino's Pizza,Delhi NCR,Vasant Vihar,3.8,675,"Pizza, Fast Food",400.0,True,False,False
+Relish Cherish,Mumbai,"Kasarvadavli, Thane West",4.4,100,"Chinese, North Indian, Thai, Mughlai",800.0,True,False,False
+Madurai Kallazhagar,Chennai,Porur,3.3,0,"Arabian, Chinese, South Indian, Chettinad",250.0,True,False,False
+A-One Chicken Biryani Corner,Delhi NCR,Jasola,3.3,0,"Biryani, North Indian",300.0,True,False,False
+Pistha House,Mangalore,Thokottu,0.0,0,"Juices, Sandwich, Burger, Street Food, Rolls",200.0,False,False,False
+Biryani Boxes,Delhi NCR,Amrapali Dream Valley,3.4,22,"Biryani, North Indian",400.0,True,False,False
+Auntie Fung's - Asian Street Food,Delhi NCR,DLF Phase 4,4.1,404,"Asian, Thai, Malaysian, Chinese, Beverages",700.0,True,True,False
+Domino's Pizza,Allahabad,Civil Lines,3.9,0,"Pizza, Fast Food",400.0,True,False,False
+Shetty Lunch Home,Manipal,Eshwar Nagar,0.0,0,"South Indian, Chinese, Arabian",300.0,False,False,False
+Nandhiniee Sweets,Chennai,Anna Nagar West,3.3,10,"Mithai, Street Food, Fast Food, Chinese, North Indian",400.0,False,False,False
+Desi Nom Nom,Delhi NCR,Greater Kailash 1 (GK1),3.7,13,"North Indian, Rolls",800.0,False,False,False
+Hungry Cafe,Delhi NCR,Vasundhara Enclave,3.1,5,"North Indian, Chinese",500.0,True,False,False
+Shawarma Brothers,Jaipur,Malviya Nagar,3.5,51,Lebanese,180.0,True,False,False
+Vinay Bhel Corner,Bengaluru,Banashankari,3.4,7,Street Food,100.0,False,False,False
+Crostino,Nagpur,Nandanvan,3.4,186,"North Indian, Fast Food",300.0,True,False,False
+Subway,Hyderabad,Bowenpally,3.7,142,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+Cafe Swarajya,Pune,Salunkhe Vihar Road,3.5,31,"North Indian, Fast Food",250.0,True,False,False
+Sagar Restaurant & Chats,Bengaluru,Vijay Nagar,3.8,16,"South Indian, North Indian, Chinese",500.0,True,False,False
+Bapi Chat House,Guwahati,Maligaon,3.8,35,"Biryani, Street Food, Momos",300.0,False,False,False
+Sweet Home,Lucknow,Gomti Nagar,3.1,16,"Bakery, Fast Food",400.0,True,False,False
+Mirchi Chaats,Chandigarh,"Phase 7, Mohali",3.4,127,"Street Food, South Indian, Chinese",300.0,True,False,False
+A2B - Adyar Ananda Bhavan,Chennai,Triplicane,3.6,112,"Mithai, North Indian, South Indian, Chinese",450.0,False,False,False
+Secret Foods,Delhi NCR,Crossing Republik,3.3,0,"North Indian, Chinese",450.0,False,False,False
+Mohit Enterprises Confectionery And Bakers,Meerut,Meerut Cantt,3.9,63,Bakery,200.0,True,False,False
+Baskin Robbins,Nashik,Parijat Nagar,3.3,11,"Ice Cream, Beverages, Desserts",200.0,True,False,False
+Burger Grill,Ludhiana,Janak Puri,2.8,45,"Fast Food, Burger, Sandwich, Coffee",400.0,False,False,False
+Bhatra Mane,Mysore,Bogadi,3.5,18,South Indian,300.0,True,False,False
+Moonlight Cate,Dharamshala,Mcleodganj,0.0,0,0,800.0,False,False,False
+Subway,Vellore,Katpadi,3.3,0,"Fast Food, Healthy Food",350.0,True,False,False
+Selfie Korner,Amritsar,Rani Ka Bagh,3.2,15,"Fast Food, Chinese, Pizza",350.0,True,False,False
+Veg Oven,Bengaluru,Shanti Nagar,3.3,0,Bakery,150.0,False,False,False
+Maddy's Katti Cafe,Bengaluru,Malleshwaram,3.2,6,"Fast Food, Biryani, Momos, Beverages",450.0,True,False,False
+Vitamin Corner,Puducherry,Mudaliarpet,0.0,0,"Fast Food, Beverages",200.0,False,False,False
+Siji's Mess,Bengaluru,Ejipura,2.9,6,Kerala,100.0,False,False,False
+Bombay Shiv Sagar,Kolkata,Camac Street Area,4.1,1311,"North Indian, Chinese, South Indian, Fast Food",650.0,True,False,False
+North Indian And Bengali Mess,Bengaluru,Koramangala 5th Block,3.7,35,"North Indian, Bengali",300.0,False,False,False
+The Project Juice,Bengaluru,Koramangala 8th Block,0.0,0,"Beverages, Juices",200.0,True,False,False
+24 Hours Cake Delivery,Delhi NCR,Rohini,0.0,0,Bakery,200.0,False,False,True
+Cafe 63,Chandigarh,"Phase 7, Mohali",3.4,38,"Rolls, Fast Food, North Indian",400.0,True,False,False
+Kailash Rasoi,Delhi NCR,Palam,0.0,0,North Indian,150.0,False,False,False
+Monika Ice Cream,Ahmedabad,Vastral,0.0,0,Ice Cream,300.0,True,False,False
+Hyku Foods,Chennai,Ambattur,3.3,0,"Biryani, North Indian, Italian, Chinese, Bar Food, Fast Food, Beverages, Thai",300.0,False,False,False
+Silver Sand Hotel,Trivandrum,Thycaud,3.3,7,"South Indian, Continental, North Indian",500.0,True,False,False
+Eat Snacks,Bengaluru,HSR,3.3,0,Fast Food,250.0,True,False,False
+The Palms Indian Restro Bar - Hotel Sunbeam Premium,Chandigarh,"Sector 22, Chandigarh",3.6,46,"Thai, North Indian, Continental, Chinese",300.0,True,False,False
+Torso Curl - The Gym Cafe,Pune,Baner,3.3,13,"Healthy Food, Beverages",500.0,True,False,False
+Sree Mysore Ghee Store,Hyderabad,Himayath Nagar,0.0,0,Mithai,350.0,False,False,False
+Om Sae Ram Restaurant,Indore,Vijay Nagar,3.6,112,North Indian,300.0,True,False,False
+Savitha Restaurant,Chennai,Anna Nagar West,3.3,0,"Chinese, Biryani",250.0,False,False,False
+Pizza Corner,Mumbai,Nalasopara,2.9,18,"Chinese, Pizza, Fast Food",200.0,True,False,False
+Kulfi House,Chennai,Ramapuram,3.4,17,"Ice Cream, Desserts",200.0,False,False,False
+Cafe Coffee Day,Delhi NCR,"Sector 62, Noida",3.2,10,"Cafe, Beverages, Desserts, Fast Food",600.0,False,False,False
+Verandah Coffee Roasters and Café,Vijayawada,Auto Nagar,4.6,76,Cafe,500.0,False,False,False
+Wrapstick 7.0,Udaipur,Chandpole,3.7,108,Fast Food,300.0,False,False,False
+Lassi Shop,Bengaluru,Whitefield,3.5,7,"Beverages, Ice Cream",200.0,True,False,False
+Hotel Rana Veg Non Veg Restaurant,Aurangabad,CIDCO,4.2,179,North Indian,300.0,True,False,False
+Gayatri Hot And Cool,Trichy,Tharanallur,3.1,7,"Fast Food, Juices",150.0,True,False,False
+Starbucks Coffee,Delhi NCR,Punjabi Bagh,4.1,582,"Cafe, Desserts",700.0,False,False,False
+Natraj Fastfood Centre,Mumbai,Fort,3.3,8,"Fast Food, Juices, Pizza",200.0,False,False,False
+Adishas Narayana Enterprises,Hyderabad,Kondapur,0.0,0,"Ice Cream, Beverages, Fast Food",150.0,True,False,False
+Sikandar Juice Corner,Agra,Sikandra,0.0,0,Beverages,200.0,True,False,False
+New Egg World,Ahmedabad,Gota,4.0,290,North Indian,500.0,True,False,False
+Makhna Chakhna,Lucknow,Rajajipuram,0.0,0,"Chinese, Rolls",200.0,False,False,False
+Etihad Arabian Restaurant,Mysore,Bannimantap,4.1,478,"Arabian, Biryani",200.0,True,False,False
+The Chaat Cafe,Ahmedabad,Bodakdev,0.0,0,"North Indian, Street Food",300.0,True,False,False
+Cafe D'Costa,Bengaluru,Frazer Town,3.8,42,Bakery,200.0,False,False,False
+Majestic International,Hyderabad,Nallakunta,2.9,32,"Andhra, Chinese, Biryani",400.0,False,False,False
+Hash Tag Burger Bro,Mumbai,Near Andheri West Station,0.0,0,Fast Food,200.0,False,False,False
+Mistaan Sweets And Chaat,Bengaluru,HSR,3.2,4,"Street Food, Mithai",200.0,True,False,False
+Crust & Buns,Mumbai,Borivali West,3.5,194,"Pizza, Fast Food",700.0,True,False,False
+Kachhomal Sweets,Mumbai,Ulhasnagar,3.4,11,Mithai,200.0,False,False,False
+Aapki Thali - Aapki Choice,Delhi NCR,"Sector 20, Dwarka",3.3,13,"North Indian, Chinese",400.0,True,False,False
+Whipped,Delhi NCR,Defence Colony,4.0,570,"Bakery, Desserts",550.0,True,False,False
+Master of Momos,Delhi NCR,Kalkaji,0.0,0,"Fast Food, North Eastern, Momos",150.0,True,False,True
+Himachal Sweet Palace,Delhi NCR,Loni,3.3,0,"Mithai, Street Food, Gujarati",250.0,False,False,False
+Nizam's Kathi Kabab,Delhi NCR,Malviya Nagar,4.1,435,"North Indian, Mughlai",900.0,True,True,False
+Hotel Ra Flora,Chandigarh,Dera Bassi,0.0,0,"North Indian, Chinese",800.0,True,False,False
+Patel Fancy Dosa,Surat,Adajan Gam,3.3,16,South Indian,300.0,False,False,False
+Hotel New Pallavi,Pune,Kothrud,3.3,0,"Chinese, North Indian, Sandwich",250.0,False,False,False
+Flavors of London,Delhi NCR,Naraina,3.1,7,"Ice Cream, Fast Food",350.0,False,False,False
+Monginis,Pune,B.T. Kawade Road,3.3,14,"Bakery, Desserts, Fast Food",300.0,False,False,False
+Xtreme Sports Bar and Grill,Guwahati,Christian Basti,4.3,138,"North Indian, Continental, Chinese, Japanese",300.0,True,False,False
+Hotel Rajeshwari,Madurai,Sathamangalam,3.2,7,"Chettinad, South Indian",200.0,False,False,False
+Food Compass by Panthi,Pune,Wakad,0.0,0,"North Indian, Street Food",300.0,False,False,False
+MSD 7,Nagpur,Dharampeth,3.3,0,"Fast Food, Continental, Sandwich, Beverages",300.0,True,False,False
+Scoops Ice Cream,Hyderabad,Himayath Nagar,2.9,15,Desserts,250.0,False,False,False
+Blossoms 4 U,Delhi NCR,"Sector 56, Gurgaon",3.3,15,"Bakery, Desserts",300.0,False,False,False
+Khane Mein Dum,Delhi NCR,"Sector 15, Gurgaon",3.5,74,"North Indian, Chinese",200.0,False,False,False
+F.R.I.E.N.D.S. Eatery,Patiala,Urban Estate,3.3,0,"Fast Food, North Indian",200.0,False,False,False
+Mannubhai Dabeli and Vadapav,Raipur,Civil Lines,0.0,0,Street Food,150.0,False,False,False
+The Vegeterian Kitchen,Delhi NCR,Jasola,0.0,0,North Indian,400.0,True,False,False
+Hotel Vasanth Bhavan,Coimbatore,Ramanathapuram,0.0,0,South Indian,200.0,False,False,False
+Hotel Shrinagar,Mumbai,"Wagle Estate, Thane West",2.9,7,"North Indian, Chinese, Malwani",800.0,False,False,False
+Malana Restaurant,Manali,Kullu,0.0,0,"Chinese, North Indian",400.0,False,False,False
+Let's Go Dutch,Chandigarh,Kharar Road,3.3,34,"Fast Food, Healthy Food, Bakery",300.0,True,False,False
+Malgudi,Mumbai,Goregaon East,3.7,177,South Indian,300.0,False,False,False
+Food Box,Mumbai,Mumbai Central,3.3,15,"Fast Food, Pizza",300.0,False,False,False
+Bintang Sweet Thrills,Delhi NCR,Rajouri Garden,3.9,103,"Desserts, Ice Cream, Sandwich, Pizza, Burger, Salad, Momos",200.0,True,False,False
+Kaarthick Bhavan,Madurai,Arrapalayam,0.0,0,South Indian,250.0,False,False,False
+Kamal & Kamal Confectioner,Chandigarh,"Sector 32, Chandigarh",3.9,163,"Bakery, Fast Food",300.0,True,False,False
+Lai Bhari Kolhapuri,Pune,Nigdi,3.4,103,Maharashtrian,500.0,True,False,False
+BBQ HOT,Trivandrum,Pappanamcode,0.0,0,"BBQ, Fast Food",350.0,False,False,False
+The Sugar Glaze By Sakshi,Kanpur,Govindpuri,3.3,0,Desserts,300.0,False,False,False
+Sri Udupi Park,Bengaluru,HSR,4.1,104,"South Indian, North Indian, Chinese",300.0,True,False,False
+T Cafe,Kanpur,Armapur,0.0,0,"North Indian, South Indian, Chinese",800.0,True,False,False
+Kashmiri Chole Bhature,Delhi NCR,Rohini,3.3,0,Street Food,100.0,False,False,False
+Divine Restaurant,Bhubaneswar,Kalinga Nagar,3.3,0,"North Indian, Chinese",200.0,False,False,False
+House of Delicacies,Jaipur,Shyam Nagar,0.0,0,"Thai, Mexican, Lebanese",500.0,False,False,False
+Mughal Court - The Gold Palace & Resorts,Jaipur,Kukas,3.3,19,"North Indian, Chinese, Continental",300.0,False,False,False
+South Mouth,Bengaluru,Bannerghatta Road,0.0,0,"North Indian, Fast Food",300.0,False,False,False
+Oh My Cake,Kochi,Kakkanad,3.1,10,"Desserts, Bakery",300.0,False,False,False
+Burger Home,Kolkata,New Town,3.6,36,Fast Food,250.0,True,False,False
+Legacy of Bombay - Fidalgo,Goa,Panaji,4.0,234,"South Indian, Street Food",700.0,True,False,False
+Frites Corner,Puducherry,Auroville,3.9,63,Cafe,300.0,False,False,False
+Subway,Ajmer,Ana Sagar Lake,4.1,112,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+Krishna Restaurant,Jodhpur,1st Pulia,2.9,4,"North Indian, Fast Food",200.0,True,False,False
+Thottathil Food House,Bengaluru,BTM,3.9,101,"Kerala, South Indian, Biryani",300.0,True,False,False
+Vittlebox,Ahmedabad,Navrangpura,4.0,1125,"Gujarati, North Indian",400.0,True,False,False
+El Classico,Nagpur,Dharampeth,3.3,0,"Fast Food, Chinese, North Indian, Continental",700.0,True,False,False
+Mevaram Home Kitchen,Patna,Golambar,0.0,0,"North Indian, Chinese",400.0,True,False,False
+Lal Tadka Restaurant,Agra,Lohamandi,3.3,30,North Indian,500.0,True,False,False
+Mint,Pune,Kharadi,3.1,4,Street Food,250.0,False,False,False
+Ji Memsaab - Indian Terrace Restaurant & Bar,Delhi NCR,Sector 49,4.6,162,North Indian,300.0,False,False,False
+Annapurna Tiffin Centre,Trivandrum,Ambalamukku,0.0,0,South Indian,100.0,False,False,False
+Chawlas'2(Since 1960),Delhi NCR,Karol Bagh,3.6,73,"North Indian, Chinese",700.0,True,False,False
+Tasty But Healthy,Delhi NCR,Sushant Lok,3.1,4,"Fast Food, North Indian",250.0,False,False,False
+Good Food Roll House,Pune,Wakad,3.8,215,"Fast Food, North Indian, Chinese, Rolls",350.0,True,False,False
+Barbeque Nation,Jammu,Trikuta Nagar,4.5,195,North Indian,300.0,False,False,False
+Eats N Eats,Delhi NCR,Kapashera,0.0,0,"Bakery, Fast Food",150.0,False,False,False
+Annam Cafe,Chennai,Velachery,3.7,31,"North Indian, Continental",300.0,False,False,False
+Punjabi Delight,Gwalior,Naya Bazaar,3.6,83,North Indian,400.0,True,False,False
+Mama's Corner,Goa,Siolim,0.0,0,"North Indian, Chinese, Goan",700.0,False,False,False
+Kinara Grand,Hyderabad,Vanasthalipuram,3.6,1228,"North Indian, Chinese, Biryani",600.0,True,False,False
+Aggarwal Sweet India,Delhi NCR,Kalkaji,2.9,15,"Mithai, Street Food",100.0,False,False,False
+Gunamay Kitchen,Nagpur,Hingna T Point,3.3,0,North Indian,300.0,True,False,False
+Resign Sky Bar,Hyderabad,Hitech City,4.5,581,"Continental, Finger Food",300.0,False,False,False
+Adda,Jaipur,Sodala,3.7,322,"South Indian, Chinese, North Indian",200.0,True,False,False
+Spicy Andhra,Bengaluru,Whitefield,3.1,4,"Andhra, Chinese, North Indian",500.0,True,False,False
+Standard's Bakery,Dehradun,Kaonli,3.1,5,Bakery,300.0,False,False,False
+Real Arabia,Kochi,Aluva,3.8,157,"Arabian, Continental, Chinese",400.0,True,False,False
+Bakesmiths Baker's And Roaster,Bhopal,JP Nagar,3.6,28,"Fast Food, Bakery, Desserts",300.0,True,False,False
+Harshad Lodge,Jamnagar,Bedeswar,0.0,0,0,300.0,False,False,False
+Farmer's Kitchen,Delhi NCR,Sikandarpur,4.2,517,"North Indian, Iranian, Mughlai, Lebanese, Arabian",300.0,True,True,False
+Keventers - The Original Milkshake,Pune,Camp Area,3.4,69,"Beverages, Desserts, Ice Cream",400.0,False,False,False
+Jay Jalaram Bhojanalay,Vadodara,Sama,0.0,0,Gujarati,200.0,False,False,False
+Mishra Ji Ka Bhojnalay,Indore,HIG-LIG,3.3,11,North Indian,250.0,True,False,False
+Shri Anand Ice Cream,Indore,Sudama Nagar,2.9,10,"Ice Cream, Beverages",150.0,True,False,False
+Nutrislice,Jaipur,Lal Kothi,3.1,6,"Bakery, Fast Food",200.0,False,False,False
+Awadh Express,Delhi NCR,South City 2,3.4,148,"North Indian, Awadhi",750.0,True,False,False
+Firangi Bake,Chennai,Potheri,3.8,17,"Italian, Mexican",600.0,True,False,False
+Maggi Point,Hyderabad,Kukatpally,3.3,25,"Fast Food, Chinese",250.0,False,False,False
+Walks of Life,Jaipur,Amer,0.0,0,"North Indian, Chinese, Fast Food",500.0,True,False,False
+Let's Dessert by SK,Delhi NCR,Jail Road,3.2,7,"Bakery, Desserts",750.0,False,False,False
+The Wok Shop,Bengaluru,Ulsoor,3.4,10,"Asian, Chinese, Momos, Fast Food, Indonesian, Korean",500.0,True,False,False
+Shapur,Mumbai,Mazgaon,2.7,23,"Chinese, North Indian",250.0,False,False,False
+Cafe Chocolade,Pune,Camp Area,2.8,35,"Ice Cream, Desserts, Fast Food",400.0,True,False,False
+Cake Spot,Delhi NCR,Sector 49,3.2,7,"Bakery, Fast Food",350.0,True,False,False
+The Karnavati Dabeli,Ahmedabad,Satellite,3.3,49,"Fast Food, Street Food",200.0,True,False,False
+Papa Chow,Kolkata,New Town,0.0,0,"Chinese, Healthy Food, Momos",350.0,False,False,False
+The Tummy Affair,Mumbai,Vasai,2.7,9,"Chinese, Thai, Fast Food",350.0,False,False,False
+Four Square Corner,Pune,Ravet,3.3,0,"South Indian, Street Food",150.0,False,False,False
+Sprinkles,Jaipur,C Scheme,3.5,29,Bakery,300.0,False,False,True
+DZI House,Delhi NCR,Majnu ka Tila,0.0,0,"North Indian, Chinese, Tibetan",550.0,False,False,False
+Domino's Pizza,Bengaluru,Shanti Nagar,3.7,301,"Pizza, Fast Food",400.0,True,False,False
+Matki,Udaipur,Bhuwana,3.3,14,"Gujarati, Rajasthani",350.0,True,False,False
+The Maple,Chandigarh,Dhakoli,0.0,0,"North Indian, Chinese, Continental",700.0,True,False,False
+Balaji Sweets,Delhi NCR,Malviya Nagar,3.3,0,"Mithai, Street Food",150.0,False,False,False
+Raymond Bakery,Delhi NCR,Shastri Park,0.0,0,Bakery,200.0,False,False,False
+Big Mummy,Bengaluru,Indiranagar,4.0,232,"Fast Food, Biryani",400.0,True,False,False
+Shree Ram Vijay Hindu Hotel,Ahmedabad,Bodakdev,3.3,9,"North Indian, Gujarati",150.0,True,False,False
+Green Chick Chop,Delhi NCR,"Sector 41, Noida",2.8,95,"Raw Meats, Fast Food",350.0,True,False,False
+Balaji Misthan Bhandar,Jodhpur,Paota,0.0,0,"Mithai, Desserts",300.0,False,False,False
+Kailash Parbat,Chennai,Kotturpuram,4.1,270,"North Indian, Street Food, Chinese",800.0,True,True,False
+Nandini South Dosa Corner,Ahmedabad,Chandkheda,3.2,17,South Indian,150.0,True,False,False
+The Sizzling Griddle,Delhi NCR,Indirapuram,3.1,5,North Indian,250.0,True,False,False
+Trio- A Garden Restaurant,Udaipur,Fateh Sagar,3.3,0,"North Indian, Chinese, Italian",1000.0,False,False,False
+Batra Confectionary,Ludhiana,Model Town,3.9,227,"Bakery, Fast Food, Street Food, Beverages",300.0,False,False,False
+Cream Chemistry,Chennai,Besant Nagar,3.7,32,"Ice Cream, Desserts",300.0,True,False,False
+Gandhi Refreshment,Mumbai,Mahakali,2.9,4,Mughlai,200.0,False,False,False
+Agnee - Vedic Village Spa Resort,Kolkata,New Town,3.5,46,"North Indian, Chinese",300.0,False,True,False
+Sai Grand,Bengaluru,Electronic City,0.0,0,"South Indian, North Indian, Chinese",200.0,False,False,False
+Ceylon Express,Kochi,Kakkanad,0.0,0,"Kerala, Arabian",400.0,False,False,False
+Cafe Hive - Hotel Apollo Dimora,Trivandrum,Palayam,0.0,0,"Continental, Chinese",300.0,False,False,False
+Scoops,Kochi,Palarivattom,3.8,63,"Desserts, Beverages, Juices",250.0,True,False,False
+The French Loaf,Bengaluru,KR Puram,0.0,0,"Bakery, Desserts, Sandwich",400.0,False,False,False
+Old Madras Baking Company,Hyderabad,Gandipet,2.9,14,Beverages,150.0,False,False,False
+Deja Brew,Hyderabad,Madhapur,0.0,0,Cafe,800.0,False,False,False
+The RajaRani kitchen,Goa,Margao,3.3,0,"North Indian, Chinese",300.0,False,False,False
+Swaraj Bhojanalay,Pune,Karve Nagar,0.0,0,Maharashtrian,250.0,False,False,False
+Sri Mahaveer Ice Cream Parlour & Chat Centre,Hyderabad,Jeedimetla,3.5,43,"Ice Cream, Street Food",300.0,True,False,False
+New Tiwari Shudh Vaishno Dhaba,Chandigarh,"Sector 11, Panchkula",3.3,0,North Indian,400.0,False,False,False
+Idli House & Lunch Home,Mumbai,"Manpada, Thane West",3.3,0,"North Indian, South Indian",150.0,False,False,False
+Badhsah Tandoor,Nashik,Panchavati,3.3,0,"North Indian, Chinese",300.0,False,False,False
+The Lansdowne Restobar,Kolkata,Desapriya Park,3.4,11,"North Indian, Continental, Chinese",300.0,False,True,False
+Bikaner Mishthan Bhandar,Ludhiana,Sarabha Nagar,3.6,34,"Mithai, Street Food",100.0,True,False,False
+Jaiveer Naan & Chaap,Delhi NCR,Paschim Vihar,3.7,66,"North Indian, Fast Food",500.0,False,False,False
+Sri Udupi Park,Bengaluru,Marathahalli,3.4,262,"South Indian, North Indian, Chinese, Beverages",500.0,False,False,False
+Chop Shop,Delhi NCR,Karampura,3.5,60,"Chinese, Fast Food",500.0,False,False,False
+Bunkerzzz Cafe,Mumbai,Nerul,3.8,67,"Fast Food, Beverages",400.0,False,False,False
+Aarogya Bhavan,Bengaluru,Bommanahalli,0.0,0,"Fast Food, Beverages",200.0,False,False,False
+Vicki's,Pune,NIBM Road,4.1,285,"Italian, Salad, Fast Food",500.0,True,False,False
+Monginis,Goa,Mapusa,2.7,18,Bakery,200.0,False,False,False
+Thakar Thal,Ahmedabad,Ashram Road,3.6,336,"Gujarati, North Indian",550.0,True,False,False
+Ethnic Swaad,Delhi NCR,Lajpat Nagar 4,4.2,61,"North Indian, Rolls",400.0,True,False,True
+Bhatti The Tandoor Cafe,Mumbai,Virar,3.4,13,"Kebab, Rolls, Biryani, Desserts, Beverages",400.0,True,False,False
+Tangerine - The Zuri White Sands Resort,Goa,Benaulim,3.4,13,Finger Food,300.0,False,False,False
+The Blue Ice,Ludhiana,Civil Lines,0.0,0,"Ice Cream, Beverages",200.0,True,False,False
+Home's Pizza,Delhi NCR,Vaishali,3.0,99,"Pizza, Fast Food",500.0,True,False,False
+Leg Piece Biriyani  Fast Food Center,Bhubaneswar,Patrapada,3.1,4,"Biryani, Fast Food",350.0,True,False,False
+Shiv Shambhu Cafe & Snacks,Ahmedabad,Ranip,0.0,0,Fast Food,350.0,False,False,False
+Just Bake,Hyderabad,Saroor Nagar,3.3,19,"Bakery, Desserts, Fast Food",400.0,False,False,False
+Chatkazz,Vadodara,Fatehgunj,3.6,93,"Fast Food, North Indian",300.0,False,False,False
+Ami's Food Cafe,Delhi NCR,Sector 49,3.3,0,Cafe,800.0,False,False,False
+Hotel Barak,Guwahati,Dispur,0.0,0,"Chinese, North Indian",300.0,False,False,False
+Sahoo Special Dum Biriyani,Bhubaneswar,Jagmohan Nagar,3.7,129,"Biryani, Mughlai",100.0,False,False,False
+Mughlai Khana,Allahabad,Meergunj,0.0,0,Mughlai,400.0,False,False,False
+Smoke Trailer Grill,Delhi NCR,Sainik Farms,3.9,66,American,300.0,True,False,False
+Sumit Chinese Food,Gwalior,Lashkar,0.0,0,0,150.0,False,False,False
+Shazeen Chicken Biryani Point,Hyderabad,Kukatpally,3.3,0,"North Indian, Biryani",200.0,True,False,False
+Keto Kafe,Mumbai,"Andheri Lokhandwala, Andheri West",3.3,0,"Healthy Food, Salad",500.0,False,False,True
+Classic Veg & Non Veg,Mumbai,Powai,3.0,93,"South Indian, North Indian, Chinese, Kebab, Beverages",700.0,True,False,False
+Deviram Food Circle,Agra,Lohamandi,4.0,304,"Mithai, Fast Food, Street Food, North Indian",200.0,True,False,False
+My Kitchen Food Center,Gwalior,Prasad Nagar,3.1,5,North Indian,250.0,True,False,False
+Navrang ice cream,Surat,Utran,3.1,4,Desserts,300.0,False,False,False
+Tandoori Haat,Delhi NCR,"Sector 42, Faridabad",2.9,92,"North Indian, Mughlai, Chinese",500.0,True,False,False
+Blue Sky,Mumbai,"Oshiwara, Andheri West",3.4,19,"North Indian, Chinese, Seafood",700.0,True,False,False
+Dilbahar Hotel,Pune,Wagholi,2.9,5,"Biryani, Chinese",300.0,True,False,False
+Food Paradise,Lucknow,Aliganj,3.5,32,"North Indian, Chinese",500.0,True,False,False
+Golden Dragon Chinese And Snack Center,Pune,Pashan,0.0,0,"Fast Food, Street Food",200.0,False,False,False
+Man Restaurant,Amravati,Maltekedi,0.0,0,0,300.0,False,False,False
+Kule's  kitchen,Mumbai,Santacruz West,3.4,36,"Chinese, North Indian",400.0,True,False,False
+Rominus Pizza and Burger,Jaipur,Tonk Road,3.7,157,"Pizza, Fast Food",600.0,True,False,False
+Firangi Bake,Pune,Vishrantwadi,4.0,102,"Mexican, Italian, Modern Indian",600.0,True,False,True
+Nebula Restaurant,Kolkata,Shyam Bazar,2.7,77,"Chinese, North Indian",400.0,True,False,False
+Sanju Omlet Center,Vadodara,Makarpura,0.0,0,Street Food,150.0,False,False,False
+Ekaa Villa,Agra,Tajganj,0.0,0,North Indian,800.0,False,False,False
+Jaipur Zaika,Jaipur,Raja Park,3.3,0,"Fast Food, Beverages, Ice Cream",100.0,False,False,False
+Anmol Bhojanalay,Indore,Vijay Nagar,0.0,0,North Indian,150.0,False,False,False
+Siddhivinayak Vadapav Center,Mumbai,Bhandup,0.0,0,"Fast Food, South Indian",400.0,False,False,False
+Mughal's,Pune,East Street,3.7,486,"Mughlai, North Indian, Biryani, Kebab",800.0,True,False,False
+K's Royal Chef,Delhi NCR,Paschim Vihar,3.6,36,"North Indian, Mughlai",400.0,True,False,False
+Monginis,Mumbai,Kalyan,0.0,0,"Bakery, Fast Food",200.0,False,False,False
+Streetlight Cafe,Trivandrum,Ambalamukku,0.0,0,Continental,400.0,True,False,False
+Tibbs Frankie - Metro Hyper Market,Vijayawada,Machavaram,3.3,12,Rolls,150.0,False,False,False
+The Space,Hyderabad,Karkhana,3.3,0,"Fast Food, Beverages",450.0,False,False,False
+Siddique Kabab Centre,Hyderabad,Lingampally,3.8,320,"North Indian, Kebab, Chinese",400.0,True,False,False
+MM Kota Kachori,Ahmedabad,Satellite,3.2,16,Street Food,100.0,True,False,False
+Barbeque Nation,Nagpur,Sitabuldi,4.9,1417,"North Indian, Chinese, BBQ",1600.0,False,True,False
+Cream Bell Scoopers,Delhi NCR,"Sector 15, Gurgaon",0.0,0,Ice Cream,200.0,False,False,False
+Old Champaran Meat House,Patna,Fraser Road Area,3.7,483,North Indian,400.0,True,False,False
+Spice Affairs,Pune,Pimpri,0.0,0,"Chinese, North Indian",500.0,False,False,False
+Sapna Sandwich,Indore,Sudama Nagar,3.6,120,Fast Food,250.0,True,False,False
+The Noodle House,Dharamshala,Gamru,3.5,16,"Tibetan, Seafood, North Indian, Fast Food, Continental, Chinese",250.0,True,False,False
+Chandigarh Poultry,Chandigarh,"Sector 67, Mohali",3.3,0,North Indian,550.0,True,False,False
+Frostbite,Chennai,Chromepet,2.9,37,"Fast Food, Desserts",250.0,True,False,False
+Subway,Dehradun,Ballupur,3.9,100,"Fast Food, Healthy Food, Sandwich, Salad",500.0,True,False,False
+Mercury Lounge,Lucknow,Lalbagh,2.7,13,"North Indian, Mughlai, Fast Food",300.0,False,False,False
+32 Degree Ice Bar Lounge,Chennai,Anna Nagar East,0.0,0,Desserts,200.0,False,False,False
+JUG-MUG CAFE,Lucknow,Kanpur Road,3.9,51,Cafe,250.0,True,False,False
+Chef n Spice,Chandigarh,"Phase 5, Mohali",3.8,205,"North Indian, Chinese, Fast Food",500.0,True,False,False
+Laxmi Fast Food,Jodhpur,Chopasni Housing Board,3.3,0,Chinese,150.0,False,False,False
+Food Club,Manipal,Kinnimulki,0.0,0,Ice Cream,140.0,False,False,False
+Sagar Kala Khatta,Mumbai,Juhu,3.6,17,Ice Cream,200.0,False,False,False
+New Kalika South Indian Restaurant,Cuttack,Siba Bazaar,3.2,22,"North Indian, South Indian, Chinese",350.0,False,False,False
+Kookie Jar,Kolkata,"Sector 1, Salt Lake",4.5,721,"Bakery, Desserts, Fast Food",350.0,False,False,False
+Seashell Restaurant,Goa,Margao,0.0,0,"Goan, Chinese, North Indian",500.0,True,False,False
+Red Chilli Snacks & Bakes,Coimbatore,Vadavalli,3.0,4,"Bakery, Desserts, Fast Food",300.0,False,False,False
+Treat Street,Raipur,Jawahar Nagar,3.2,11,Fast Food,200.0,True,False,False
+Kishore Ji Food,Hyderabad,S R Nagar,0.0,0,"Chinese, North Indian",150.0,False,False,False
+Dolcissimo Bakes,Mumbai,Khar,3.5,48,Desserts,600.0,True,False,False
+Maharani - The Kitchen,Delhi NCR,Indirapuram,3.7,73,"North Indian, Chinese",650.0,False,False,False
+Momoz King,Dehradun,Majra,0.0,0,"Momos, Fast Food",150.0,True,False,False
+Calvin's,Bengaluru,Koramangala 5th Block,3.8,444,"Desserts, Bakery, Continental, Salad, Burger, Pizza",600.0,True,False,False
+Pizza On The Rock,Vadodara,Karelibaug,3.6,44,"Pizza, Desserts",500.0,False,False,False
+Samadhan,Mumbai,Borivali West,3.5,64,"North Indian, Chinese",500.0,False,False,False
+Thalassery Biriyani Darbar,Trivandrum,Sreekariyam,3.1,7,Kerala,250.0,False,False,False
+WOW! Momo,Kolkata,Naktala,3.1,5,Momos,350.0,False,False,False
+Hotel Shri Vinayaga Bhavan,Chennai,Taramani,0.0,0,South Indian,200.0,False,False,False
+Lajawab Khana Khazana,Mumbai,"Versova, Andheri West",3.2,10,"Fast Food, North Indian, Chinese",500.0,True,False,False
+Madras Delicacy,Chennai,Velachery,0.0,0,"Bakery, Mithai",150.0,False,False,False
+Dilli Da Swaad,Delhi NCR,Mukherjee Nagar,3.4,173,"North Indian, Mughlai",200.0,True,False,False
+Rolls Mania,Pune,Wagholi,3.4,125,"Rolls, Fast Food",300.0,True,False,False
+Salad Master,Jalandhar,Model Town,3.8,89,"Salad, Burger",550.0,True,False,False
+Sagar Gaire,Indore,Annapurna Road,3.1,72,"South Indian, Fast Food",400.0,True,False,False
+My Grill,Hyderabad,Kukatpally,3.4,460,"North Indian, Chinese, Seafood",300.0,True,False,False
