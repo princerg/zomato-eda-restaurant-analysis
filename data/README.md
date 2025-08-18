@@ -8,3 +8,4 @@ You can download it from Kaggle:
 Once downloaded, place the dataset in this `/` folder before running the notebook.
 
 For quick testing, you can use the provided `sample.csv` (first 1000 rows).
+Also, you can use `cleaned_sample.csv` (first 1000 rows).
