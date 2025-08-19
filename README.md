@@ -39,29 +39,28 @@ pip install -r requirements.txt
 
 🔹 Distribution & Trends
 
-Cost for Two Distribution
 Ratings Distribution
-Online Ordering & Table Booking Availability
+![Ratings Distribution](plots/rating_distribution.png)
 
 🔹 Cuisines & Restaurant Types
 
 Top 10 Cuisines
-Top Restaurant Types
+
+![Top Restaurants](plots/restaurant_rating.png)
 
 🔹 Relationship Insights
 
-Cost vs Ratings (Boxplot)
 Correlation Heatmap
+![Correlation Heatmap](plots/correlation_heatmap.png)
 
 
 ## 💡 Insights
 
 Some of the key findings include:
 - Most restaurants fall within a cost range of ₹200–₹600 for two.
-- Ratings are generally skewed towards the 3.5–4.5 range, with very few extremes.
+- Ratings are generally skewed towards the 3.2–3.6 range, with very few extremes.
 - North Indian & Chinese cuisines dominate in popularity.
 - Higher-rated restaurants often charge slightly higher costs for two, but affordability does not always mean lower ratings.
-- A majority of restaurants offer online ordering, while table booking is less common.
 
 ## 🚀 Future Work
 
